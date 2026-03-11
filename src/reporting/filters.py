@@ -186,6 +186,9 @@ def apply_sort(
         val = obj.get(sort_field)
         if val is None:
             return (1, 0) if none_last else (-1, 0)
+        # Ignorer les listes et dicts — les traiter comme None
+        if isinstance(val, (list, dict)):
+            return (1, 0) if none_last else (-1, 0)
         try:
             return (0, float(val))
         except (TypeError, ValueError):

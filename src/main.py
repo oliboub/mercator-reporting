@@ -5,7 +5,8 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
 from src.api.routes import mercator as mercator_router
-from src.api.routes import reports as reports_router   # ← ajouter cette ligne
+from src.api.routes import reports as reports_router
+from src.api.routes import query as query_router
 
 logging.basicConfig(
     level=logging.INFO,
@@ -32,7 +33,9 @@ app.add_middleware(
 
 # Routers
 app.include_router(mercator_router.router)
-app.include_router(reports_router.router)   
+app.include_router(reports_router.router)
+app.include_router(query_router.router)
+
 
 @app.get("/health", tags=["System"])
 async def health_check():

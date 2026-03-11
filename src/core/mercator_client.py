@@ -320,7 +320,93 @@ class MercatorClient:
 
         return detailed
 
-    def check_connection(self) -> dict:
+    def get_endpoint_filtered(
+        self,
+        endpoint: str,
+        filters: list = None,
+        sort: list = None,
+        include: list[str] = None,
+    ) -> list[dict]:
+        """Récupère un endpoint avec filtres, tri et includes côté serveur Mercator.
+
+        Utilise l'API Advanced Mercator (filter[field_op]=value, sort=field, include=rel).
+        Plus efficace que get_endpoint() + filtrage Python pour les grandes collections.
+
+        Args:
+            endpoint: nom de l'endpoint (ex: "applications")
+            filters: liste de FilterDefinition à convertir en params Mercator
+            sort: liste de SortDefinition à convertir en params Mercator
+            include: liste de relations à inclure (ex: ["logical_servers"])
+
+        Returns:
+            Liste d'objets filtrés par Mercator.
+        """
+        params = self._build_filter_params(filters or [], sort or [], include or [])
+
+        # Pas de cache pour les requêtes filtrées (résultats variables)
+        logger.debug("GET endpoint filtered : %s params=%s", endpoint, params)
+        response = self._get(f"{self.base_url}/api/{endpoint}", params=params)
+        data = response.json()
+
+        # Unwrap pagination Mercator {data: [...], links: ..., meta: ...}
+        if isinstance(data, dict) and "data" in data:
+            items = data["data"]
+        elif isinstance(data, list):
+            items = data
+        else:
+            items = []
+
+        return items if isinstance(items, list) else []
+
+    @staticmethod
+    def _build_filter_params(
+        filters: list,
+        sort: list,
+        include: list[str],
+    ) -> dict:
+        """Convertit FilterDefinition[] + SortDefinition[] en query params Mercator."""
+        from src.models.report import FilterOperator, SortDirection
+
+        # Mapping opérateur → suffixe Mercator
+        OP_MAP = {
+            FilterOperator.EQ: "",          # filter[field]=value
+            FilterOperator.NEQ: "_not",
+            FilterOperator.GT: "_gt",
+            FilterOperator.GTE: "_gte",
+            FilterOperator.LT: "_lt",
+            FilterOperator.LTE: "_lte",
+            FilterOperator.CONTAINS: "",    # LIKE auto sur name/description
+            FilterOperator.IN: "_in",
+            FilterOperator.IS_NULL: "_null",
+            FilterOperator.IS_NOT_NULL: "_null",
+        }
+
+        params = {}
+
+        for f in filters:
+            suffix = OP_MAP.get(f.operator, "")
+            key = f"filter[{f.field}{suffix}]"
+
+            if f.operator == FilterOperator.IS_NULL:
+                params[key] = "true"
+            elif f.operator == FilterOperator.IS_NOT_NULL:
+                params[key] = "false"
+            elif f.operator == FilterOperator.IN and isinstance(f.value, list):
+                params[key] = ",".join(str(v) for v in f.value)
+            else:
+                params[key] = str(f.value) if f.value is not None else ""
+
+        # Tri — Mercator supporte un seul champ sort (on prend le premier)
+        if sort:
+            first = sort[0]
+            prefix = "" if first.direction == SortDirection.ASC else "-"
+            params["sort"] = f"{prefix}{first.field}"
+
+        # Relations à inclure
+        if include:
+            params["include"] = ",".join(include)
+
+        return params
         """Vérifie la connectivité avec Mercator CMDB.
 
         Returns:

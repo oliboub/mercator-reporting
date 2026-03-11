@@ -26,9 +26,6 @@ export default function Navbar() {
           </NavLink>
           <NavLink to="/query" active={location.pathname === '/query'}>
             Requête libre
-            <span className="ml-2 text-[10px] font-mono bg-accent-violet/20 text-accent-violet px-1.5 py-0.5 rounded">
-              bientôt
-            </span>
           </NavLink>
         </div>
       </div>

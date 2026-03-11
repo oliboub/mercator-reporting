@@ -19,6 +19,14 @@ class Settings(BaseSettings):
     # Cache
     cache_ttl_seconds: int = 300  # 5 minutes
 
+    # Ollama
+    ollama_base_url: str = "http://host.docker.internal:11434"
+    ollama_model: str = "gemma3:4b"
+    ollama_timeout: float = 2700.0  # secondes (défaut 45 min pour CPU sans GPU)
+
+    # Templates utilisateur (stockés dans ce fichier JSON)
+    user_templates_path: str = "/app/storage/user_templates.json"
+
     class Config:
         env_file = ".env"
         case_sensitive = False

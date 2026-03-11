@@ -2,6 +2,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import Navbar from './components/Navbar.jsx'
 import Dashboard from './pages/Dashboard.jsx'
 import ReportView from './pages/ReportView.jsx'
+import QueryBuilder from './pages/QueryBuilder.jsx'
 
 export default function App() {
   return (
@@ -12,6 +13,7 @@ export default function App() {
           <Routes>
             <Route path="/" element={<Dashboard />} />
             <Route path="/templates/:id" element={<ReportView />} />
+            <Route path="/query" element={<QueryBuilder />} />
           </Routes>
         </main>
       </div>
