@@ -1,0 +1,163 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "mercator-reporting"
+version = "0.1.0"
+description = "Outil intelligent de reporting pour Mercator CMDB - Recréation moderne d'Isiparc"
+readme = "README.md"
+requires-python = ">=3.11"
+license = {text = "Proprietary"}
+authors = [
+    {name = "Équipe Mercator Reporting", email = "reporting@example.com"}
+]
+keywords = ["cmdb", "reporting", "mercator", "business-intelligence", "isiparc"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: System Administrators",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Office/Business",
+    "Topic :: Database",
+]
+
+dependencies = [
+    # Web Framework
+    "fastapi>=0.109.0",
+    "uvicorn[standard]>=0.27.0",
+    "python-multipart>=0.0.6",
+    # Export
+    "reportlab>=4.1.0",
+
+    # Data Processing
+    "pandas>=2.1.4",
+    "numpy>=1.26.3",
+
+    # Export Formats
+    "openpyxl>=3.1.2",          # Excel .xlsx
+    "xlsxwriter>=3.1.9",        # Excel avancé
+    "python-docx>=1.1.0",       # Word .docx
+    "reportlab>=4.0.9",         # PDF
+    "jinja2>=3.1.3",            # Templating HTML
+
+    # API Client Mercator CMDB
+    "httpx[http2]>=0.26.0",
+    "requests>=2.31.0",
+    "tenacity>=8.2.3",          # Retry logic
+
+    # Auth & Security
+    "python-jose[cryptography]>=3.3.0",
+    "passlib[bcrypt]>=1.7.4",
+    "python-dotenv>=1.0.0",
+    "pydantic-settings>=2.1.0",
+
+    # Utilitaires
+    "structlog>=24.1.0",
+    "orjson>=3.9.12",
+    "typer>=0.9.0",
+    "rich>=13.7.0",
+    "python-dateutil>=2.8.0",
+    "pyyaml>=6.0",
+]
+
+[project.optional-dependencies]
+# Compatibilité pip : pip install -e ".[dev]"
+# Avec uv : utiliser "uv sync" qui lit [tool.uv] dev-dependencies ci-dessous
+dev = [
+    "pytest>=7.4.4",
+    "pytest-asyncio>=0.23.3",
+    "pytest-cov>=4.1.0",
+    "pytest-mock>=3.12.0",
+    "httpx>=0.26.0",
+    "factory-boy>=3.3.0",
+    "faker>=22.5.0",
+]
+
+lint = [
+    "ruff>=0.1.14",
+    "black>=24.1.0",
+    "mypy>=1.8.0",
+    "pre-commit>=3.6.0",
+]
+
+docs = [
+    "mkdocs>=1.5.3",
+    "mkdocs-material>=9.5.4",
+    "mkdocstrings[python]>=0.24.0",
+]
+
+all = [
+    "mercator-reporting[dev,lint,docs]"
+]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src"]
+
+[tool.black]
+line-length = 100
+target-version = ['py311']
+
+[tool.ruff]
+target-version = "py311"
+line-length = 100
+select = ["E", "W", "F", "I", "N", "UP", "B", "C4", "SIM"]
+ignore = ["D100", "D104", "D203", "D213"]
+
+[tool.ruff.per-file-ignores]
+"tests/*" = ["D", "S"]
+
+[tool.mypy]
+python_version = "3.11"
+warn_return_any = true
+warn_unused_configs = true
+ignore_missing_imports = true
+exclude = ["tests"]
+
+[tool.pytest.ini_options]
+minversion = "7.0"
+addopts = "-ra -q --strict-markers --tb=short --color=yes"
+testpaths = ["tests"]
+asyncio_mode = "auto"
+filterwarnings = [
+    "ignore::DeprecationWarning",
+    "ignore::PendingDeprecationWarning",
+]
+markers = [
+    "phase1: Tests Phase 1 — routes API et MercatorClient (US2)",
+    "phase2: Tests Phase 2 — ReportEngine et Query Builder (US3, US4)",
+    "integration: Tests d'intégration avec Mercator réel (nécessite réseau)",
+    "slow: Tests lents (exports volumineux, benchmarks)",
+]
+
+[tool.coverage.run]
+source = ["src"]
+branch = true
+omit = ["*/tests/*", "*/venv/*"]
+
+[tool.coverage.report]
+exclude_lines = [
+    "pragma: no cover",
+    "def __repr__",
+    "raise NotImplementedError",
+    "if __name__ == .__main__.:",
+    "if TYPE_CHECKING:",
+]
+
+[tool.uv]
+# Source de vérité pour "uv sync" — installe prod + dev dans .venv automatiquement
+# C'est ce que lit "uv run pytest"
+dev-dependencies = [
+    # Tests
+    "pytest>=7.4.4",
+    "pytest-asyncio>=0.23.3",
+    "pytest-cov>=4.1.0",
+    "pytest-mock>=3.12.0",
+    "httpx>=0.26.0",
+    "factory-boy>=3.3.0",
+    "faker>=22.5.0",
+    # Debug interactif
+    "ipython>=8.20.0",
+    "ipdb>=0.13.13",
+]

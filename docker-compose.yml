@@ -1,0 +1,66 @@
+version: '3.8'
+
+services:
+  mercator-reporting:
+    build: .
+    container_name: mercator-reporting
+    image: mercator-reporting:latest
+    ports:
+      - "8000:8000"
+    environment:
+      # Mercator CMDB — host.docker.internal pointe vers la machine hôte depuis le container
+      - MERCATOR_BASE_URL=${MERCATOR_BASE_URL:-http://host.docker.internal:8080}
+      - MERCATOR_LOGIN=${MERCATOR_LOGIN:-admin@admin.com}
+      - MERCATOR_PASSWORD=${MERCATOR_PASSWORD:-password}
+      # Application
+      - DEBUG=${DEBUG:-false}
+      - SECRET_KEY=${SECRET_KEY:-change-me-in-production}
+      - MAX_EXPORT_ROWS=${MAX_EXPORT_ROWS:-10000}
+      # Mode dev : active --reload dans le Dockerfile CMD
+      - ENV=${ENV:-dev}
+    volumes:
+      # HOST ./storage  →  CONTAINER /app/storage  (rapports persistants entre redémarrages)
+      - ./storage:/app/storage
+      # HOST ./src      →  CONTAINER /app/src       (hot reload : édition locale visible immédiatement)
+      - ./src:/app/src
+      # HOST ./scripts  →  CONTAINER /app/scripts   (scripts utilitaires)
+      #- ./scripts:/app/scripts
+    restart: unless-stopped
+    # Linux Docker Engine : host.docker.internal n'est pas résolu nativement.
+    # extra_hosts injecte l'entrée dans /etc/hosts du container.
+    # "host-gateway" = IP du bridge docker0 (auto-détectée, ne pas mettre 172.17.0.1 en dur)
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    networks:
+      - mercator-net
+    # Health check sur l'endpoint /health de FastAPI
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 15s
+
+  mercator-frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile.frontend
+    container_name: mercator-frontend
+    image: mercator-frontend:latest
+    ports:
+      - "3000:3000"
+    depends_on:
+      - mercator-reporting
+    restart: unless-stopped
+    networks:
+      - mercator-net
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://localhost:3000"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 20s
+
+networks:
+  mercator-net:
+    driver: bridge

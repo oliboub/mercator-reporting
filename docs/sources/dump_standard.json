@@ -1,0 +1,3164 @@
+{
+    "data-processings": [
+        {
+            "id": 1,
+            "name": "EU Article 30 - 1.a",
+            "description": "<p>Chaque responsable du traitement et, le cas échéant, le représentant du responsable du traitement tiennent un registre des activités de traitement effectuées sous leur responsabilité. Ce registre comporte toutes les informations suivantes: le nom et les coordonnées du responsable du traitement et, le cas échéant, du responsable conjoint du traitement, du représentant du responsable du traitement et du délégué à la protection des données</p>",
+            "responsible": null,
+            "purpose": null,
+            "categories": null,
+            "recipients": null,
+            "transfert": null,
+            "retention": null,
+            "controls": null,
+            "created_at": "2026-03-08T16:11:46.000000Z",
+            "updated_at": "2026-03-08T16:11:46.000000Z",
+            "deleted_at": null,
+            "legal_basis": null,
+            "lawfulness": null,
+            "lawfulness_legitimate_interest": null,
+            "lawfulness_public_interest": null,
+            "lawfulness_vital_interest": null,
+            "lawfulness_legal_obligation": null,
+            "lawfulness_contract": null,
+            "lawfulness_consent": null,
+            "processes": [
+                4,
+                3,
+                5
+            ],
+            "informations": [
+                1
+            ],
+            "applications": [
+                5
+            ]
+        },
+        {
+            "id": 2,
+            "name": "EU Article 30 - 1.b",
+            "description": "<p>Chaque responsable du traitement et, le cas échéant, le représentant du responsable du traitement tiennent un registre des activités de traitement effectuées sous leur responsabilité. Ce registre comporte toutes les informations suivantes: les finalités du traitement</p>",
+            "responsible": null,
+            "purpose": null,
+            "categories": null,
+            "recipients": null,
+            "transfert": null,
+            "retention": null,
+            "controls": null,
+            "created_at": "2026-03-08T16:11:47.000000Z",
+            "updated_at": "2026-03-08T16:11:47.000000Z",
+            "deleted_at": null,
+            "legal_basis": null,
+            "lawfulness": null,
+            "lawfulness_legitimate_interest": null,
+            "lawfulness_public_interest": null,
+            "lawfulness_vital_interest": null,
+            "lawfulness_legal_obligation": null,
+            "lawfulness_contract": null,
+            "lawfulness_consent": null,
+            "processes": [
+                4,
+                3,
+                5
+            ],
+            "informations": [
+                1
+            ],
+            "applications": [
+                5
+            ]
+        },
+        {
+            "id": 3,
+            "name": "EU Article 30 - 1.c",
+            "description": "<p>Chaque responsable du traitement et, le cas échéant, le représentant du responsable du traitement tiennent un registre des activités de traitement effectuées sous leur responsabilité. Ce registre comporte toutes les informations suivantes: une description des catégories de personnes concernées et des catégories de données à caractère personnel</p>",
+            "responsible": null,
+            "purpose": null,
+            "categories": null,
+            "recipients": null,
+            "transfert": null,
+            "retention": null,
+            "controls": null,
+            "created_at": "2026-03-08T16:11:47.000000Z",
+            "updated_at": "2026-03-08T16:11:47.000000Z",
+            "deleted_at": null,
+            "legal_basis": null,
+            "lawfulness": null,
+            "lawfulness_legitimate_interest": null,
+            "lawfulness_public_interest": null,
+            "lawfulness_vital_interest": null,
+            "lawfulness_legal_obligation": null,
+            "lawfulness_contract": null,
+            "lawfulness_consent": null,
+            "processes": [
+                4,
+                3,
+                5
+            ],
+            "informations": [
+                1
+            ],
+            "applications": [
+                5
+            ]
+        },
+        {
+            "id": 4,
+            "name": "EU Article 30 - 1.d",
+            "description": "<p>Chaque responsable du traitement et, le cas échéant, le représentant du responsable du traitement tiennent un registre des activités de traitement effectuées sous leur responsabilité. Ce registre comporte toutes les informations suivantes: les catégories de destinataires auxquels les données à caractère personnel ont été ou seront communiquées, y compris les destinataires dans des pays tiers ou des organisations internationales</p>",
+            "responsible": null,
+            "purpose": null,
+            "categories": null,
+            "recipients": null,
+            "transfert": null,
+            "retention": null,
+            "controls": null,
+            "created_at": "2026-03-08T16:11:47.000000Z",
+            "updated_at": "2026-03-08T16:11:47.000000Z",
+            "deleted_at": null,
+            "legal_basis": null,
+            "lawfulness": null,
+            "lawfulness_legitimate_interest": null,
+            "lawfulness_public_interest": null,
+            "lawfulness_vital_interest": null,
+            "lawfulness_legal_obligation": null,
+            "lawfulness_contract": null,
+            "lawfulness_consent": null,
+            "processes": [
+                4,
+                3,
+                5
+            ],
+            "informations": [
+                1
+            ],
+            "applications": [
+                5
+            ]
+        },
+        {
+            "id": 5,
+            "name": "EU Article 30 - 1.e",
+            "description": "<p>Chaque responsable du traitement et, le cas échéant, le représentant du responsable du traitement tiennent un registre des activités de traitement effectuées sous leur responsabilité. Ce registre comporte toutes les informations suivantes: le cas échéant, les transferts de données à caractère personnel vers un pays tiers ou à une organisation internationale, y compris l'identification de ce pays tiers ou de cette organisation internationale et, dans le cas des transferts visés à l'article 49, paragraphe 1, deuxième alinéa, les documents attestant de l'existence de garanties appropriées</p>",
+            "responsible": null,
+            "purpose": null,
+            "categories": null,
+            "recipients": null,
+            "transfert": null,
+            "retention": null,
+            "controls": null,
+            "created_at": "2026-03-08T16:11:48.000000Z",
+            "updated_at": "2026-03-08T16:11:48.000000Z",
+            "deleted_at": null,
+            "legal_basis": null,
+            "lawfulness": null,
+            "lawfulness_legitimate_interest": null,
+            "lawfulness_public_interest": null,
+            "lawfulness_vital_interest": null,
+            "lawfulness_legal_obligation": null,
+            "lawfulness_contract": null,
+            "lawfulness_consent": null,
+            "processes": [
+                4,
+                3,
+                5
+            ],
+            "informations": [
+                1
+            ],
+            "applications": [
+                5
+            ]
+        },
+        {
+            "id": 6,
+            "name": "EU Article 30 - 1.f",
+            "description": "<p>Chaque responsable du traitement et, le cas échéant, le représentant du responsable du traitement tiennent un registre des activités de traitement effectuées sous leur responsabilité. Ce registre comporte toutes les informations suivantes: dans la mesure du possible, les délais prévus pour l'effacement des différentes catégories de données</p>",
+            "responsible": null,
+            "purpose": null,
+            "categories": null,
+            "recipients": null,
+            "transfert": null,
+            "retention": null,
+            "controls": null,
+            "created_at": "2026-03-08T16:11:48.000000Z",
+            "updated_at": "2026-03-08T16:11:48.000000Z",
+            "deleted_at": null,
+            "legal_basis": null,
+            "lawfulness": null,
+            "lawfulness_legitimate_interest": null,
+            "lawfulness_public_interest": null,
+            "lawfulness_vital_interest": null,
+            "lawfulness_legal_obligation": null,
+            "lawfulness_contract": null,
+            "lawfulness_consent": null,
+            "processes": [
+                4,
+                3,
+                5
+            ],
+            "informations": [
+                1
+            ],
+            "applications": [
+                5
+            ]
+        },
+        {
+            "id": 7,
+            "name": "EU Article 30 - 1.g",
+            "description": "<p>Chaque responsable du traitement et, le cas échéant, le représentant du responsable du traitement tiennent un registre des activités de traitement effectuées sous leur responsabilité. Ce registre comporte toutes les informations suivantes: dans la mesure du possible , une description générale des mesures de sécurité techniques et organisationnelles visées à l'article 32, paragraphe 1.</p>",
+            "responsible": null,
+            "purpose": null,
+            "categories": null,
+            "recipients": null,
+            "transfert": null,
+            "retention": null,
+            "controls": null,
+            "created_at": "2026-03-08T16:11:48.000000Z",
+            "updated_at": "2026-03-08T16:11:48.000000Z",
+            "deleted_at": null,
+            "legal_basis": null,
+            "lawfulness": null,
+            "lawfulness_legitimate_interest": null,
+            "lawfulness_public_interest": null,
+            "lawfulness_vital_interest": null,
+            "lawfulness_legal_obligation": null,
+            "lawfulness_contract": null,
+            "lawfulness_consent": null,
+            "processes": [
+                4,
+                3,
+                5
+            ],
+            "informations": [
+                1
+            ],
+            "applications": [
+                5
+            ]
+        },
+        {
+            "id": 8,
+            "name": "EU Article 30 - 2.a",
+            "description": "<p>Chaque sous-traitant et, le cas échéant, le représentant du sous-traitant tiennent un registre de toutes les catégories d'activités de traitement effectuées pour le compte du responsable du traitement, comprenant: le nom et les coordonnées du ou des sous-traitants et de chaque responsable du traitement pour le compte duquel le sous-traitant agit ainsi que, le cas échéant, les noms et les coordonnées du représentant du responsable du traitement ou du sous-traitant et celles du délégué à la protection des données</p>",
+            "responsible": null,
+            "purpose": null,
+            "categories": null,
+            "recipients": null,
+            "transfert": null,
+            "retention": null,
+            "controls": null,
+            "created_at": "2026-03-08T16:11:49.000000Z",
+            "updated_at": "2026-03-08T16:11:49.000000Z",
+            "deleted_at": null,
+            "legal_basis": null,
+            "lawfulness": null,
+            "lawfulness_legitimate_interest": null,
+            "lawfulness_public_interest": null,
+            "lawfulness_vital_interest": null,
+            "lawfulness_legal_obligation": null,
+            "lawfulness_contract": null,
+            "lawfulness_consent": null,
+            "processes": [
+                4,
+                3,
+                5
+            ],
+            "informations": [
+                1
+            ],
+            "applications": [
+                5
+            ]
+        },
+        {
+            "id": 9,
+            "name": "EU Article 30 - 2.b",
+            "description": "<p>Chaque sous-traitant et, le cas échéant, le représentant du sous-traitant tiennent un registre de toutes les catégories d'activités de traitement effectuées pour le compte du responsable du traitement, comprenant: les catégories de traitements effectués pour le compte de chaque responsable du traitement</p>",
+            "responsible": null,
+            "purpose": null,
+            "categories": null,
+            "recipients": null,
+            "transfert": null,
+            "retention": null,
+            "controls": null,
+            "created_at": "2026-03-08T16:11:49.000000Z",
+            "updated_at": "2026-03-08T16:11:49.000000Z",
+            "deleted_at": null,
+            "legal_basis": null,
+            "lawfulness": null,
+            "lawfulness_legitimate_interest": null,
+            "lawfulness_public_interest": null,
+            "lawfulness_vital_interest": null,
+            "lawfulness_legal_obligation": null,
+            "lawfulness_contract": null,
+            "lawfulness_consent": null,
+            "processes": [
+                4,
+                3,
+                5
+            ],
+            "informations": [
+                1
+            ],
+            "applications": [
+                5
+            ]
+        },
+        {
+            "id": 10,
+            "name": "EU Article 30 - 2.c",
+            "description": "<p>Chaque sous-traitant et, le cas échéant, le représentant du sous-traitant tiennent un registre de toutes les catégories d'activités de traitement effectuées pour le compte du responsable du traitement, comprenant: le cas échéant, les transferts de données à caractère personnel vers un pays tiers ou à une organisation internationale, y compris l'identification de ce pays tiers ou de cette organisation internationale et, dans le cas des transferts visés à l'article 49, paragraphe 1, deuxième alinéa, les documents attestant de l'existence de garanties appropriées</p>",
+            "responsible": null,
+            "purpose": null,
+            "categories": null,
+            "recipients": null,
+            "transfert": null,
+            "retention": null,
+            "controls": null,
+            "created_at": "2026-03-08T16:11:49.000000Z",
+            "updated_at": "2026-03-08T16:11:49.000000Z",
+            "deleted_at": null,
+            "legal_basis": null,
+            "lawfulness": null,
+            "lawfulness_legitimate_interest": null,
+            "lawfulness_public_interest": null,
+            "lawfulness_vital_interest": null,
+            "lawfulness_legal_obligation": null,
+            "lawfulness_contract": null,
+            "lawfulness_consent": null,
+            "processes": [
+                4,
+                3,
+                5
+            ],
+            "informations": [
+                1
+            ],
+            "applications": [
+                5
+            ]
+        },
+        {
+            "id": 11,
+            "name": "EU Article 30 - 2.d",
+            "description": "<p>Chaque sous-traitant et, le cas échéant, le représentant du sous-traitant tiennent un registre de toutes les catégories d'activités de traitement effectuées pour le compte du responsable du traitement, comprenant: dans la mesure du possible, une description générale des mesures de sécurité techniques et organisationnelles visées à l'article 32, paragraphe 1.</p>",
+            "responsible": null,
+            "purpose": null,
+            "categories": null,
+            "recipients": null,
+            "transfert": null,
+            "retention": null,
+            "controls": null,
+            "created_at": "2026-03-08T16:11:50.000000Z",
+            "updated_at": "2026-03-08T16:11:50.000000Z",
+            "deleted_at": null,
+            "legal_basis": null,
+            "lawfulness": null,
+            "lawfulness_legitimate_interest": null,
+            "lawfulness_public_interest": null,
+            "lawfulness_vital_interest": null,
+            "lawfulness_legal_obligation": null,
+            "lawfulness_contract": null,
+            "lawfulness_consent": null,
+            "processes": [
+                4,
+                3,
+                5
+            ],
+            "informations": [
+                1
+            ],
+            "applications": [
+                5
+            ]
+        },
+        {
+            "id": 12,
+            "name": "EU Article 30 - 3",
+            "description": "<p>Les registres visés aux paragraphes 1 et 2 se présentent sous une forme écrite y compris la forme électronique.</p>",
+            "responsible": null,
+            "purpose": null,
+            "categories": null,
+            "recipients": null,
+            "transfert": null,
+            "retention": null,
+            "controls": null,
+            "created_at": "2026-03-08T16:11:50.000000Z",
+            "updated_at": "2026-03-08T16:11:50.000000Z",
+            "deleted_at": null,
+            "legal_basis": null,
+            "lawfulness": null,
+            "lawfulness_legitimate_interest": null,
+            "lawfulness_public_interest": null,
+            "lawfulness_vital_interest": null,
+            "lawfulness_legal_obligation": null,
+            "lawfulness_contract": null,
+            "lawfulness_consent": null,
+            "processes": [
+                4,
+                3,
+                5
+            ],
+            "informations": [
+                1
+            ],
+            "applications": [
+                5
+            ]
+        },
+        {
+            "id": 13,
+            "name": "EU Article 30 - 4",
+            "description": "<p>Le responsable du traitement ou le sous-traitant et, le cas échéant, leur représentant mettent le registre à la disposition de l'autorité de contrôle sur demande.</p>",
+            "responsible": null,
+            "purpose": null,
+            "categories": null,
+            "recipients": null,
+            "transfert": null,
+            "retention": null,
+            "controls": null,
+            "created_at": "2026-03-08T16:11:50.000000Z",
+            "updated_at": "2026-03-08T16:11:50.000000Z",
+            "deleted_at": null,
+            "legal_basis": null,
+            "lawfulness": null,
+            "lawfulness_legitimate_interest": null,
+            "lawfulness_public_interest": null,
+            "lawfulness_vital_interest": null,
+            "lawfulness_legal_obligation": null,
+            "lawfulness_contract": null,
+            "lawfulness_consent": null,
+            "processes": [
+                4,
+                3,
+                5
+            ],
+            "informations": [
+                1
+            ],
+            "applications": [
+                5
+            ]
+        },
+        {
+            "id": 14,
+            "name": "EU Article 30 - 5",
+            "description": "<p>Les obligations visées aux paragraphes 1 et 2 ne s'appliquent pas à une entreprise ou à une organisation comptant moins de 250 employés, sauf si le traitement qu'elles effectuent est susceptible de comporter un risque pour les droits et des libertés des personnes concernées, s'il n'est pas occasionnel ou s'il porte notamment sur les catégories particulières de données visées à l'article 9, paragraphe 1, ou sur des données à caractère personnel relatives à des condamnations pénales et à des infractions visées à l'article 10.</p>",
+            "responsible": null,
+            "purpose": null,
+            "categories": null,
+            "recipients": null,
+            "transfert": null,
+            "retention": null,
+            "controls": null,
+            "created_at": "2026-03-08T16:11:51.000000Z",
+            "updated_at": "2026-03-08T16:11:51.000000Z",
+            "deleted_at": null,
+            "legal_basis": null,
+            "lawfulness": null,
+            "lawfulness_legitimate_interest": null,
+            "lawfulness_public_interest": null,
+            "lawfulness_vital_interest": null,
+            "lawfulness_legal_obligation": null,
+            "lawfulness_contract": null,
+            "lawfulness_consent": null,
+            "processes": [
+                4,
+                3,
+                5
+            ],
+            "informations": [
+                1
+            ],
+            "applications": [
+                5
+            ]
+        },
+        {
+            "id": 15,
+            "name": "FR Article 57",
+            "description": "<p>Modifié par l'ordonnance n° 2018-1125 du 12 décembre 2018. En application de l'article 24 du règlement (UE) 2016/679 du 27 avril 2016, le responsable du traitement met en œuvre des mesures techniques et organisationnelles appropriées pour s'assurer et être en mesure de démontrer que le traitement est effectué conformément à ce même règlement et à la présente loi. Le responsable du traitement et, le cas échéant, son représentant tiennent le registre des activités de traitement dans les conditions prévues à l'article 30 de ce règlement. Ils désignent un délégué à la protection des données dans les conditions prévues par la section 4 du chapitre IV du même règlement.</p>",
+            "responsible": null,
+            "purpose": null,
+            "categories": null,
+            "recipients": null,
+            "transfert": null,
+            "retention": null,
+            "controls": null,
+            "created_at": "2026-03-08T16:11:51.000000Z",
+            "updated_at": "2026-03-08T16:11:51.000000Z",
+            "deleted_at": null,
+            "legal_basis": null,
+            "lawfulness": null,
+            "lawfulness_legitimate_interest": null,
+            "lawfulness_public_interest": null,
+            "lawfulness_vital_interest": null,
+            "lawfulness_legal_obligation": null,
+            "lawfulness_contract": null,
+            "lawfulness_consent": null,
+            "processes": [
+                4,
+                3,
+                5
+            ],
+            "informations": [
+                1
+            ],
+            "applications": [
+                5
+            ]
+        }
+    ],
+    "security-controls": [
+        {
+            "id": 1,
+            "name": "PSSI-ACCES-PHYSIQUE",
+            "description": "Double authentification et biométrie",
+            "created_at": "2026-03-08T16:12:25.000000Z",
+            "updated_at": "2026-03-08T16:12:25.000000Z",
+            "deleted_at": null
+        },
+        {
+            "id": 2,
+            "name": "POLITIQUE-SAUVEGARDE",
+            "description": "Règle 3-2-1 avec immuabilité",
+            "created_at": "2026-03-08T16:12:26.000000Z",
+            "updated_at": "2026-03-08T16:12:26.000000Z",
+            "deleted_at": null
+        },
+        {
+            "id": 3,
+            "name": "HYGIENE-PASSWORDS",
+            "description": "MFA obligatoire sur tous les accès",
+            "created_at": "2026-03-08T16:12:26.000000Z",
+            "updated_at": "2026-03-08T16:12:26.000000Z",
+            "deleted_at": null
+        },
+        {
+            "id": 4,
+            "name": "SEGMENTATION-IT-OT",
+            "description": "Filtrage strict via Firewall indus",
+            "created_at": "2026-03-08T16:12:26.000000Z",
+            "updated_at": "2026-03-08T16:12:26.000000Z",
+            "deleted_at": null
+        },
+        {
+            "id": 5,
+            "name": "Mesures de gouvernances",
+            "description": "Gouvernance sur NIS2",
+            "created_at": "2026-03-08T16:13:07.000000Z",
+            "updated_at": "2026-03-08T16:13:07.000000Z",
+            "deleted_at": null
+        }
+    ],
+    "entities": [
+        {
+            "id": 1,
+            "name": "Mon Entité",
+            "security_level": null,
+            "contact_point": null,
+            "description": "<p>Siège social</p>",
+            "created_at": "2026-03-08T16:11:51.000000Z",
+            "updated_at": "2026-03-08T16:11:51.000000Z",
+            "deleted_at": null,
+            "is_external": null,
+            "entity_type": null,
+            "attributes": null,
+            "reference": null,
+            "parent_entity_id": null,
+            "icon_id": null,
+            "external_ref_id": null
+        },
+        {
+            "id": 2,
+            "name": "CLOUD-PROVIDER-X",
+            "security_level": null,
+            "contact_point": null,
+            "description": "<p>Hébergeur certifié SecNumCloud</p>",
+            "created_at": "2026-03-08T16:11:52.000000Z",
+            "updated_at": "2026-03-08T16:11:52.000000Z",
+            "deleted_at": null,
+            "is_external": 1,
+            "entity_type": "Supplier",
+            "attributes": null,
+            "reference": null,
+            "parent_entity_id": null,
+            "icon_id": null,
+            "external_ref_id": null
+        },
+        {
+            "id": 3,
+            "name": "LOGISTIX-PARTNER",
+            "security_level": null,
+            "contact_point": null,
+            "description": "<p>Tierce maintenance applicative (TMA)</p>",
+            "created_at": "2026-03-08T16:11:52.000000Z",
+            "updated_at": "2026-03-08T16:11:52.000000Z",
+            "deleted_at": null,
+            "is_external": null,
+            "entity_type": null,
+            "attributes": null,
+            "reference": null,
+            "parent_entity_id": null,
+            "icon_id": null,
+            "external_ref_id": null
+        },
+        {
+            "id": 4,
+            "name": "SOC-EXTERNAL",
+            "security_level": null,
+            "contact_point": null,
+            "description": "<p>Prestataire de surveillance sécurité (MSSP)</p>",
+            "created_at": "2026-03-08T16:11:52.000000Z",
+            "updated_at": "2026-03-08T16:11:52.000000Z",
+            "deleted_at": null,
+            "is_external": 1,
+            "entity_type": "Supplier",
+            "attributes": null,
+            "reference": null,
+            "parent_entity_id": null,
+            "icon_id": null,
+            "external_ref_id": null
+        },
+        {
+            "id": 5,
+            "name": "RH-INTERNAL",
+            "security_level": null,
+            "contact_point": null,
+            "description": "<p>RH Entity</p>",
+            "created_at": "2026-03-08T16:11:52.000000Z",
+            "updated_at": "2026-03-08T16:11:52.000000Z",
+            "deleted_at": null,
+            "is_external": null,
+            "entity_type": null,
+            "attributes": null,
+            "reference": null,
+            "parent_entity_id": null,
+            "icon_id": null,
+            "external_ref_id": null
+        },
+        {
+            "id": 6,
+            "name": "CISO",
+            "security_level": null,
+            "contact_point": null,
+            "description": "<p>IS and digital</p>",
+            "created_at": "2026-03-08T16:11:53.000000Z",
+            "updated_at": "2026-03-08T16:11:53.000000Z",
+            "deleted_at": null,
+            "is_external": null,
+            "entity_type": "Customer",
+            "attributes": null,
+            "reference": null,
+            "parent_entity_id": null,
+            "icon_id": null,
+            "external_ref_id": null
+        }
+    ],
+    "relations": [
+        {
+            "id": 1,
+            "importance": null,
+            "name": "Surveillance-SOC",
+            "type": "Cyber-Sécurité",
+            "description": null,
+            "created_at": "2026-03-08T16:14:31.000000Z",
+            "updated_at": "2026-03-08T16:14:31.000000Z",
+            "deleted_at": null,
+            "source_id": 4,
+            "destination_id": 1,
+            "attributes": null,
+            "reference": null,
+            "responsible": null,
+            "order_number": null,
+            "active": 1,
+            "start_date": null,
+            "end_date": null,
+            "comments": null,
+            "security_need_c": null,
+            "security_need_i": null,
+            "security_need_a": null,
+            "security_need_t": null,
+            "security_need_auth": null
+        },
+        {
+            "id": 2,
+            "importance": null,
+            "name": "ERP-Logistique",
+            "type": "logistique",
+            "description": null,
+            "created_at": "2026-03-08T16:14:31.000000Z",
+            "updated_at": "2026-03-08T16:14:31.000000Z",
+            "deleted_at": null,
+            "source_id": 3,
+            "destination_id": 1,
+            "attributes": null,
+            "reference": null,
+            "responsible": null,
+            "order_number": null,
+            "active": 1,
+            "start_date": null,
+            "end_date": null,
+            "comments": null,
+            "security_need_c": null,
+            "security_need_i": null,
+            "security_need_a": null,
+            "security_need_t": null,
+            "security_need_auth": null
+        },
+        {
+            "id": 3,
+            "importance": null,
+            "name": "RH-Processes",
+            "type": "RH",
+            "description": null,
+            "created_at": "2026-03-08T16:14:31.000000Z",
+            "updated_at": "2026-03-08T16:14:31.000000Z",
+            "deleted_at": null,
+            "source_id": 1,
+            "destination_id": 5,
+            "attributes": null,
+            "reference": null,
+            "responsible": null,
+            "order_number": null,
+            "active": 1,
+            "start_date": null,
+            "end_date": null,
+            "comments": null,
+            "security_need_c": null,
+            "security_need_i": null,
+            "security_need_a": null,
+            "security_need_t": null,
+            "security_need_auth": null
+        },
+        {
+            "id": 4,
+            "importance": null,
+            "name": "Information system",
+            "type": "Internal",
+            "description": null,
+            "created_at": "2026-03-08T16:14:31.000000Z",
+            "updated_at": "2026-03-08T16:14:31.000000Z",
+            "deleted_at": null,
+            "source_id": 1,
+            "destination_id": 6,
+            "attributes": null,
+            "reference": null,
+            "responsible": null,
+            "order_number": null,
+            "active": 1,
+            "start_date": null,
+            "end_date": null,
+            "comments": null,
+            "security_need_c": null,
+            "security_need_i": null,
+            "security_need_a": null,
+            "security_need_t": null,
+            "security_need_auth": null
+        },
+        {
+            "id": 5,
+            "importance": null,
+            "name": "Infrastructure on demand",
+            "type": "Infrastructure",
+            "description": null,
+            "created_at": "2026-03-08T16:14:31.000000Z",
+            "updated_at": "2026-03-08T16:14:31.000000Z",
+            "deleted_at": null,
+            "source_id": 2,
+            "destination_id": 1,
+            "attributes": null,
+            "reference": null,
+            "responsible": null,
+            "order_number": null,
+            "active": 1,
+            "start_date": null,
+            "end_date": null,
+            "comments": null,
+            "security_need_c": null,
+            "security_need_i": null,
+            "security_need_a": null,
+            "security_need_t": null,
+            "security_need_auth": null
+        }
+    ],
+    "macro-processuses": [
+        {
+            "id": 1,
+            "name": "RH-FR",
+            "description": "<p>Processes Globaux RH France</p>",
+            "io_elements": "<p>salaries, employees, training, certifications, qualifications, on-duties</p>",
+            "security_need_c": 3,
+            "owner": "RH-INTERNAL",
+            "created_at": "2026-03-08T16:12:14.000000Z",
+            "updated_at": "2026-03-08T16:12:14.000000Z",
+            "deleted_at": null,
+            "security_need_i": 3,
+            "security_need_a": 1,
+            "security_need_t": 2,
+            "security_need_auth": null
+        },
+        {
+            "id": 2,
+            "name": "IT Services",
+            "description": "<p>Gestion des services informatiques selon ITIL v4</p>",
+            "io_elements": "<p>incidents, requests, changes, problems, configurations, assets, events, alerts</p>",
+            "security_need_c": 2,
+            "owner": "ERP Operations",
+            "created_at": "2026-03-08T16:12:14.000000Z",
+            "updated_at": "2026-03-08T16:12:14.000000Z",
+            "deleted_at": null,
+            "security_need_i": 2,
+            "security_need_a": 2,
+            "security_need_t": 2,
+            "security_need_auth": null
+        }
+    ],
+    "processes": [
+        {
+            "id": 1,
+            "name": "GESTION-COMMANDES",
+            "description": "<p>Process achat</p>",
+            "owner": null,
+            "security_need_c": 3,
+            "in_out": null,
+            "created_at": "2026-03-08T16:12:15.000000Z",
+            "updated_at": "2026-03-08T16:12:15.000000Z",
+            "deleted_at": null,
+            "macroprocess_id": null,
+            "security_need_i": 3,
+            "security_need_a": 3,
+            "security_need_t": null,
+            "security_need_auth": null,
+            "icon_id": null,
+            "activities": [
+                1
+            ],
+            "entities": [
+                3
+            ],
+            "informations": [],
+            "applications": [],
+            "operations": [],
+            "entities_names": [],
+            "application_names": [],
+            "activity_names": []
+        },
+        {
+            "id": 2,
+            "name": "CYBER-SECURITY",
+            "description": "<p>SOC de l'entreprise</p>",
+            "owner": null,
+            "security_need_c": 3,
+            "in_out": null,
+            "created_at": "2026-03-08T16:12:15.000000Z",
+            "updated_at": "2026-03-08T16:14:37.000000Z",
+            "deleted_at": null,
+            "macroprocess_id": 2,
+            "security_need_i": 3,
+            "security_need_a": 3,
+            "security_need_t": null,
+            "security_need_auth": null,
+            "icon_id": null,
+            "activities": [
+                2
+            ],
+            "entities": [
+                4
+            ],
+            "informations": [],
+            "applications": [],
+            "operations": [],
+            "entities_names": [],
+            "application_names": [],
+            "activity_names": []
+        },
+        {
+            "id": 3,
+            "name": "Recrutement",
+            "description": "<p>Recrutement des employés</p>",
+            "owner": null,
+            "security_need_c": 2,
+            "in_out": null,
+            "created_at": "2026-03-08T16:12:15.000000Z",
+            "updated_at": "2026-03-08T16:14:36.000000Z",
+            "deleted_at": null,
+            "macroprocess_id": 1,
+            "security_need_i": 2,
+            "security_need_a": 2,
+            "security_need_t": null,
+            "security_need_auth": null,
+            "icon_id": null,
+            "activities": [
+                8
+            ],
+            "entities": [
+                5
+            ],
+            "informations": [
+                1
+            ],
+            "applications": [],
+            "operations": [],
+            "entities_names": [],
+            "application_names": [],
+            "activity_names": []
+        },
+        {
+            "id": 4,
+            "name": "Formation",
+            "description": "<p>Formation des employés</p>",
+            "owner": null,
+            "security_need_c": 1,
+            "in_out": null,
+            "created_at": "2026-03-08T16:12:16.000000Z",
+            "updated_at": "2026-03-08T16:14:36.000000Z",
+            "deleted_at": null,
+            "macroprocess_id": 1,
+            "security_need_i": 1,
+            "security_need_a": 1,
+            "security_need_t": null,
+            "security_need_auth": null,
+            "icon_id": null,
+            "activities": [
+                7
+            ],
+            "entities": [
+                5
+            ],
+            "informations": [
+                1
+            ],
+            "applications": [],
+            "operations": [],
+            "entities_names": [],
+            "application_names": [],
+            "activity_names": []
+        },
+        {
+            "id": 5,
+            "name": "Salaires",
+            "description": "<p>Payer les employés</p>",
+            "owner": null,
+            "security_need_c": 3,
+            "in_out": null,
+            "created_at": "2026-03-08T16:12:16.000000Z",
+            "updated_at": "2026-03-08T16:14:37.000000Z",
+            "deleted_at": null,
+            "macroprocess_id": 1,
+            "security_need_i": 3,
+            "security_need_a": 3,
+            "security_need_t": null,
+            "security_need_auth": null,
+            "icon_id": null,
+            "activities": [
+                5,
+                6
+            ],
+            "entities": [
+                5
+            ],
+            "informations": [
+                1
+            ],
+            "applications": [],
+            "operations": [],
+            "entities_names": [],
+            "application_names": [],
+            "activity_names": []
+        },
+        {
+            "id": 6,
+            "name": "Operations Systèmes IT",
+            "description": "<p>Pilotage de l'infrastructure</p>",
+            "owner": null,
+            "security_need_c": 3,
+            "in_out": null,
+            "created_at": "2026-03-08T16:12:16.000000Z",
+            "updated_at": "2026-03-08T16:14:37.000000Z",
+            "deleted_at": null,
+            "macroprocess_id": 2,
+            "security_need_i": 3,
+            "security_need_a": 3,
+            "security_need_t": null,
+            "security_need_auth": null,
+            "icon_id": null,
+            "activities": [
+                4,
+                3
+            ],
+            "entities": [
+                2
+            ],
+            "informations": [],
+            "applications": [],
+            "operations": [],
+            "entities_names": [],
+            "application_names": [],
+            "activity_names": []
+        }
+    ],
+    "activities": [
+        {
+            "id": 1,
+            "name": "MAINTENANCE-TMA-ERP",
+            "description": null,
+            "created_at": "2026-03-08T16:12:17.000000Z",
+            "updated_at": "2026-03-08T16:12:17.000000Z",
+            "deleted_at": null,
+            "drp": null,
+            "drp_link": null,
+            "recovery_time_objective": null,
+            "maximum_tolerable_downtime": null,
+            "recovery_point_objective": null,
+            "maximum_tolerable_data_loss": null
+        },
+        {
+            "id": 2,
+            "name": "SURVEILLANCE-INDUSTRIELLE",
+            "description": null,
+            "created_at": "2026-03-08T16:12:17.000000Z",
+            "updated_at": "2026-03-08T16:12:17.000000Z",
+            "deleted_at": null,
+            "drp": null,
+            "drp_link": null,
+            "recovery_time_objective": null,
+            "maximum_tolerable_downtime": null,
+            "recovery_point_objective": null,
+            "maximum_tolerable_data_loss": null
+        },
+        {
+            "id": 3,
+            "name": "BACKUP-QUOTIDIEN",
+            "description": null,
+            "created_at": "2026-03-08T16:12:17.000000Z",
+            "updated_at": "2026-03-08T16:12:17.000000Z",
+            "deleted_at": null,
+            "drp": null,
+            "drp_link": null,
+            "recovery_time_objective": null,
+            "maximum_tolerable_downtime": null,
+            "recovery_point_objective": null,
+            "maximum_tolerable_data_loss": null
+        },
+        {
+            "id": 4,
+            "name": "BACKUP-HEBDO",
+            "description": null,
+            "created_at": "2026-03-08T16:12:18.000000Z",
+            "updated_at": "2026-03-08T16:12:18.000000Z",
+            "deleted_at": null,
+            "drp": null,
+            "drp_link": null,
+            "recovery_time_objective": null,
+            "maximum_tolerable_downtime": null,
+            "recovery_point_objective": null,
+            "maximum_tolerable_data_loss": null
+        },
+        {
+            "id": 5,
+            "name": "Lancement des batches de paye",
+            "description": null,
+            "created_at": "2026-03-08T16:12:18.000000Z",
+            "updated_at": "2026-03-08T16:12:18.000000Z",
+            "deleted_at": null,
+            "drp": null,
+            "drp_link": null,
+            "recovery_time_objective": null,
+            "maximum_tolerable_downtime": null,
+            "recovery_point_objective": null,
+            "maximum_tolerable_data_loss": null
+        },
+        {
+            "id": 6,
+            "name": "Vérification des batches de paye",
+            "description": null,
+            "created_at": "2026-03-08T16:12:18.000000Z",
+            "updated_at": "2026-03-08T16:12:18.000000Z",
+            "deleted_at": null,
+            "drp": null,
+            "drp_link": null,
+            "recovery_time_objective": null,
+            "maximum_tolerable_downtime": null,
+            "recovery_point_objective": null,
+            "maximum_tolerable_data_loss": null
+        },
+        {
+            "id": 7,
+            "name": "Réalisation du catalogue de formation",
+            "description": null,
+            "created_at": "2026-03-08T16:12:19.000000Z",
+            "updated_at": "2026-03-08T16:12:19.000000Z",
+            "deleted_at": null,
+            "drp": null,
+            "drp_link": null,
+            "recovery_time_objective": null,
+            "maximum_tolerable_downtime": null,
+            "recovery_point_objective": null,
+            "maximum_tolerable_data_loss": null
+        },
+        {
+            "id": 8,
+            "name": "Gestion des recrutements et licenciements",
+            "description": null,
+            "created_at": "2026-03-08T16:12:19.000000Z",
+            "updated_at": "2026-03-08T16:12:19.000000Z",
+            "deleted_at": null,
+            "drp": null,
+            "drp_link": null,
+            "recovery_time_objective": null,
+            "maximum_tolerable_downtime": null,
+            "recovery_point_objective": null,
+            "maximum_tolerable_data_loss": null
+        }
+    ],
+    "operations": [
+        {
+            "id": 1,
+            "name": "ADMINISTRATION-SAP",
+            "description": null,
+            "created_at": "2026-03-08T16:12:19.000000Z",
+            "updated_at": "2026-03-08T16:12:19.000000Z",
+            "deleted_at": null,
+            "process_id": null,
+            "actors": [
+                1
+            ],
+            "tasks": [],
+            "activities": [
+                1
+            ],
+            "actor_names": [],
+            "activity_names": []
+        },
+        {
+            "id": 2,
+            "name": "PILOTAGE-DISTANT",
+            "description": null,
+            "created_at": "2026-03-08T16:12:19.000000Z",
+            "updated_at": "2026-03-08T16:12:19.000000Z",
+            "deleted_at": null,
+            "process_id": null,
+            "actors": [
+                2
+            ],
+            "tasks": [],
+            "activities": [
+                2
+            ],
+            "actor_names": [],
+            "activity_names": []
+        },
+        {
+            "id": 3,
+            "name": "EXECUTION-BACKUP-QUOTIDIEN",
+            "description": null,
+            "created_at": "2026-03-08T16:12:20.000000Z",
+            "updated_at": "2026-03-08T16:12:20.000000Z",
+            "deleted_at": null,
+            "process_id": null,
+            "actors": [
+                1
+            ],
+            "tasks": [],
+            "activities": [
+                3
+            ],
+            "actor_names": [],
+            "activity_names": []
+        },
+        {
+            "id": 4,
+            "name": "EXECUTION-BACKUP-HEBDO",
+            "description": null,
+            "created_at": "2026-03-08T16:12:20.000000Z",
+            "updated_at": "2026-03-08T16:12:20.000000Z",
+            "deleted_at": null,
+            "process_id": null,
+            "actors": [
+                1
+            ],
+            "tasks": [],
+            "activities": [
+                4
+            ],
+            "actor_names": [],
+            "activity_names": []
+        },
+        {
+            "id": 5,
+            "name": "VERIFICATION-BACKUP-HEBDO",
+            "description": null,
+            "created_at": "2026-03-08T16:12:20.000000Z",
+            "updated_at": "2026-03-08T16:12:20.000000Z",
+            "deleted_at": null,
+            "process_id": null,
+            "actors": [
+                1
+            ],
+            "tasks": [],
+            "activities": [
+                4
+            ],
+            "actor_names": [],
+            "activity_names": []
+        },
+        {
+            "id": 6,
+            "name": "Lancement RH paye",
+            "description": null,
+            "created_at": "2026-03-08T16:12:21.000000Z",
+            "updated_at": "2026-03-08T16:12:21.000000Z",
+            "deleted_at": null,
+            "process_id": null,
+            "actors": [
+                6,
+                3
+            ],
+            "tasks": [],
+            "activities": [
+                5
+            ],
+            "actor_names": [],
+            "activity_names": []
+        },
+        {
+            "id": 7,
+            "name": "Vérification RH paye",
+            "description": null,
+            "created_at": "2026-03-08T16:12:21.000000Z",
+            "updated_at": "2026-03-08T16:12:21.000000Z",
+            "deleted_at": null,
+            "process_id": null,
+            "actors": [
+                6,
+                3
+            ],
+            "tasks": [],
+            "activities": [
+                6
+            ],
+            "actor_names": [],
+            "activity_names": []
+        },
+        {
+            "id": 8,
+            "name": "Création des catalogues de formations",
+            "description": null,
+            "created_at": "2026-03-08T16:12:21.000000Z",
+            "updated_at": "2026-03-08T16:12:21.000000Z",
+            "deleted_at": null,
+            "process_id": null,
+            "actors": [
+                5,
+                3
+            ],
+            "tasks": [],
+            "activities": [
+                7
+            ],
+            "actor_names": [],
+            "activity_names": []
+        },
+        {
+            "id": 9,
+            "name": "Sélection des formations externes",
+            "description": null,
+            "created_at": "2026-03-08T16:12:22.000000Z",
+            "updated_at": "2026-03-08T16:12:22.000000Z",
+            "deleted_at": null,
+            "process_id": null,
+            "actors": [
+                5,
+                3
+            ],
+            "tasks": [],
+            "activities": [
+                7
+            ],
+            "actor_names": [],
+            "activity_names": []
+        },
+        {
+            "id": 10,
+            "name": "Sélection des formations internes",
+            "description": null,
+            "created_at": "2026-03-08T16:12:22.000000Z",
+            "updated_at": "2026-03-08T16:12:22.000000Z",
+            "deleted_at": null,
+            "process_id": null,
+            "actors": [
+                5,
+                3
+            ],
+            "tasks": [],
+            "activities": [
+                7
+            ],
+            "actor_names": [],
+            "activity_names": []
+        },
+        {
+            "id": 11,
+            "name": "Ouverture des postes en interne",
+            "description": null,
+            "created_at": "2026-03-08T16:12:22.000000Z",
+            "updated_at": "2026-03-08T16:12:22.000000Z",
+            "deleted_at": null,
+            "process_id": null,
+            "actors": [
+                4,
+                3
+            ],
+            "tasks": [],
+            "activities": [
+                8
+            ],
+            "actor_names": [],
+            "activity_names": []
+        },
+        {
+            "id": 12,
+            "name": "Ouverture des postes en externe",
+            "description": null,
+            "created_at": "2026-03-08T16:12:23.000000Z",
+            "updated_at": "2026-03-08T16:12:23.000000Z",
+            "deleted_at": null,
+            "process_id": null,
+            "actors": [
+                4,
+                3
+            ],
+            "tasks": [],
+            "activities": [
+                8
+            ],
+            "actor_names": [],
+            "activity_names": []
+        },
+        {
+            "id": 13,
+            "name": "Selection des candidats",
+            "description": null,
+            "created_at": "2026-03-08T16:12:23.000000Z",
+            "updated_at": "2026-03-08T16:12:23.000000Z",
+            "deleted_at": null,
+            "process_id": null,
+            "actors": [
+                4,
+                3
+            ],
+            "tasks": [],
+            "activities": [
+                8
+            ],
+            "actor_names": [],
+            "activity_names": []
+        },
+        {
+            "id": 14,
+            "name": "Licenciement",
+            "description": null,
+            "created_at": "2026-03-08T16:12:23.000000Z",
+            "updated_at": "2026-03-08T16:12:23.000000Z",
+            "deleted_at": null,
+            "process_id": null,
+            "actors": [
+                4,
+                3
+            ],
+            "tasks": [],
+            "activities": [
+                8
+            ],
+            "actor_names": [],
+            "activity_names": []
+        }
+    ],
+    "tasks": [],
+    "actors": [
+        {
+            "id": 1,
+            "name": "ADMIN-SYS-GRP",
+            "nature": "Equipes internes",
+            "type": "DSI",
+            "contact": "Help-desk",
+            "created_at": "2026-03-08T16:12:24.000000Z",
+            "updated_at": "2026-03-08T16:12:24.000000Z",
+            "deleted_at": null
+        },
+        {
+            "id": 2,
+            "name": "External Maintenance",
+            "nature": null,
+            "type": "CLOUD-PROVIDER-X",
+            "contact": null,
+            "created_at": "2026-03-08T16:12:24.000000Z",
+            "updated_at": "2026-03-08T16:12:24.000000Z",
+            "deleted_at": null
+        },
+        {
+            "id": 3,
+            "name": "RH France",
+            "nature": null,
+            "type": "RH-INTERNAL",
+            "contact": null,
+            "created_at": "2026-03-08T16:12:24.000000Z",
+            "updated_at": "2026-03-08T16:12:24.000000Z",
+            "deleted_at": null
+        },
+        {
+            "id": 4,
+            "name": "RH FR Recruiting",
+            "nature": null,
+            "type": "RH-INTERNAL",
+            "contact": null,
+            "created_at": "2026-03-08T16:12:25.000000Z",
+            "updated_at": "2026-03-08T16:12:25.000000Z",
+            "deleted_at": null
+        },
+        {
+            "id": 5,
+            "name": "RH FR Training",
+            "nature": null,
+            "type": "RH-INTERNAL",
+            "contact": null,
+            "created_at": "2026-03-08T16:12:25.000000Z",
+            "updated_at": "2026-03-08T16:12:25.000000Z",
+            "deleted_at": null
+        },
+        {
+            "id": 6,
+            "name": "RH FR Salary",
+            "nature": null,
+            "type": "RH-INTERNAL",
+            "contact": null,
+            "created_at": "2026-03-08T16:12:25.000000Z",
+            "updated_at": "2026-03-08T16:12:25.000000Z",
+            "deleted_at": null
+        }
+    ],
+    "information": [
+        {
+            "id": 1,
+            "name": "Employés",
+            "description": "<p>Fiche de l'employé</p>",
+            "owner": null,
+            "administrator": null,
+            "storage": null,
+            "security_need_c": 3,
+            "sensitivity": null,
+            "constraints": null,
+            "created_at": "2026-03-08T16:11:53.000000Z",
+            "updated_at": "2026-03-08T16:11:53.000000Z",
+            "deleted_at": null,
+            "security_need_i": 3,
+            "security_need_a": 2,
+            "security_need_t": 3,
+            "retention": null,
+            "security_need_auth": null
+        }
+    ],
+    "application-blocks": [
+        {
+            "id": 1,
+            "name": "Applications-RH",
+            "description": "<p>Ensemble des applications de gestion des ressources humaines</p>",
+            "responsible": "RH-INTERNAL",
+            "created_at": "2026-03-08T16:12:11.000000Z",
+            "updated_at": "2026-03-08T16:12:11.000000Z",
+            "deleted_at": null
+        },
+        {
+            "id": 2,
+            "name": "ERP Logistique",
+            "description": "<p>Progiciels de gestion intégrée (ERP/CRM/SCM)</p>",
+            "responsible": "LOGISTIX-PARTNER",
+            "created_at": "2026-03-08T16:12:11.000000Z",
+            "updated_at": "2026-03-08T16:12:11.000000Z",
+            "deleted_at": null
+        },
+        {
+            "id": 3,
+            "name": "Applications-Industrielles",
+            "description": "<p>Applications de pilotage et supervision industrielle (SCADA, MES)</p>",
+            "responsible": "MA-SOCIETE",
+            "created_at": "2026-03-08T16:12:12.000000Z",
+            "updated_at": "2026-03-08T16:12:12.000000Z",
+            "deleted_at": null
+        }
+    ],
+    "applications": [
+        {
+            "id": 1,
+            "name": "SAP ASCS",
+            "description": null,
+            "security_need_c": 3,
+            "responsible": "LOGISTIX-PARTNER",
+            "type": "ERP",
+            "technology": "SAP S/4HANA",
+            "external": "1",
+            "users": null,
+            "created_at": "2026-03-08T16:12:09.000000Z",
+            "updated_at": "2026-03-08T16:14:43.000000Z",
+            "deleted_at": null,
+            "entity_resp_id": null,
+            "application_block_id": 2,
+            "documentation": null,
+            "security_need_i": 3,
+            "security_need_a": 3,
+            "security_need_t": null,
+            "version": null,
+            "functional_referent": null,
+            "editor": null,
+            "install_date": null,
+            "update_date": null,
+            "rto": 4,
+            "rpo": 1,
+            "vendor": null,
+            "product": null,
+            "attributes": "Application Instance",
+            "patching_frequency": null,
+            "next_update": null,
+            "icon_id": null,
+            "security_need_auth": null,
+            "entities": [],
+            "processes": [],
+            "services": [],
+            "databases": [
+                1
+            ],
+            "logical_servers": [
+                1
+            ],
+            "activities": [
+                3,
+                1
+            ],
+            "containers": [],
+            "activity_names": [],
+            "process_names": [],
+            "logical_server_names": [],
+            "database_names": []
+        },
+        {
+            "id": 2,
+            "name": "SAP AS01-01",
+            "description": null,
+            "security_need_c": 1,
+            "responsible": "LOGISTIX-PARTNER",
+            "type": "ERP",
+            "technology": "SAP S/4HANA",
+            "external": "1",
+            "users": null,
+            "created_at": "2026-03-08T16:12:09.000000Z",
+            "updated_at": "2026-03-08T16:14:43.000000Z",
+            "deleted_at": null,
+            "entity_resp_id": null,
+            "application_block_id": 2,
+            "documentation": null,
+            "security_need_i": 1,
+            "security_need_a": 1,
+            "security_need_t": null,
+            "version": null,
+            "functional_referent": null,
+            "editor": null,
+            "install_date": null,
+            "update_date": null,
+            "rto": 48,
+            "rpo": 48,
+            "vendor": null,
+            "product": null,
+            "attributes": "Instance",
+            "patching_frequency": null,
+            "next_update": null,
+            "icon_id": null,
+            "security_need_auth": null,
+            "entities": [],
+            "processes": [],
+            "services": [],
+            "databases": [],
+            "logical_servers": [
+                2
+            ],
+            "activities": [
+                1
+            ],
+            "containers": [],
+            "activity_names": [],
+            "process_names": [],
+            "logical_server_names": [],
+            "database_names": []
+        },
+        {
+            "id": 3,
+            "name": "SAP AS01-02",
+            "description": null,
+            "security_need_c": 1,
+            "responsible": "LOGISTIX-PARTNER",
+            "type": "ERP",
+            "technology": "SAP S/4HANA",
+            "external": "1",
+            "users": null,
+            "created_at": "2026-03-08T16:12:09.000000Z",
+            "updated_at": "2026-03-08T16:14:43.000000Z",
+            "deleted_at": null,
+            "entity_resp_id": null,
+            "application_block_id": 2,
+            "documentation": null,
+            "security_need_i": 1,
+            "security_need_a": 1,
+            "security_need_t": null,
+            "version": null,
+            "functional_referent": null,
+            "editor": null,
+            "install_date": null,
+            "update_date": null,
+            "rto": 48,
+            "rpo": 48,
+            "vendor": null,
+            "product": null,
+            "attributes": "Instance",
+            "patching_frequency": null,
+            "next_update": null,
+            "icon_id": null,
+            "security_need_auth": null,
+            "entities": [],
+            "processes": [],
+            "services": [],
+            "databases": [],
+            "logical_servers": [
+                2
+            ],
+            "activities": [
+                1
+            ],
+            "containers": [],
+            "activity_names": [],
+            "process_names": [],
+            "logical_server_names": [],
+            "database_names": []
+        },
+        {
+            "id": 4,
+            "name": "SCADA-PILOTAGE",
+            "description": null,
+            "security_need_c": 1,
+            "responsible": "MA-SOCIETE",
+            "type": "Progiciel",
+            "technology": "Siemens WinCC",
+            "external": "0",
+            "users": null,
+            "created_at": "2026-03-08T16:12:10.000000Z",
+            "updated_at": "2026-03-08T16:14:43.000000Z",
+            "deleted_at": null,
+            "entity_resp_id": null,
+            "application_block_id": 3,
+            "documentation": null,
+            "security_need_i": 3,
+            "security_need_a": 3,
+            "security_need_t": null,
+            "version": null,
+            "functional_referent": null,
+            "editor": null,
+            "install_date": null,
+            "update_date": null,
+            "rto": 1,
+            "rpo": 0,
+            "vendor": null,
+            "product": null,
+            "attributes": "Application",
+            "patching_frequency": null,
+            "next_update": null,
+            "icon_id": null,
+            "security_need_auth": null,
+            "entities": [],
+            "processes": [],
+            "services": [],
+            "databases": [],
+            "logical_servers": [
+                3
+            ],
+            "activities": [
+                3,
+                2
+            ],
+            "containers": [],
+            "activity_names": [],
+            "process_names": [],
+            "logical_server_names": [],
+            "database_names": []
+        },
+        {
+            "id": 5,
+            "name": "RH-Solution",
+            "description": null,
+            "security_need_c": 2,
+            "responsible": "RH-INTERNAL",
+            "type": "Progiciel",
+            "technology": "RH-Home Made solution",
+            "external": "0",
+            "users": null,
+            "created_at": "2026-03-08T16:12:10.000000Z",
+            "updated_at": "2026-03-08T16:14:43.000000Z",
+            "deleted_at": null,
+            "entity_resp_id": null,
+            "application_block_id": 1,
+            "documentation": null,
+            "security_need_i": 2,
+            "security_need_a": 2,
+            "security_need_t": null,
+            "version": null,
+            "functional_referent": null,
+            "editor": null,
+            "install_date": null,
+            "update_date": null,
+            "rto": 1,
+            "rpo": 0,
+            "vendor": null,
+            "product": null,
+            "attributes": "Application",
+            "patching_frequency": null,
+            "next_update": null,
+            "icon_id": null,
+            "security_need_auth": null,
+            "entities": [],
+            "processes": [],
+            "services": [
+                1
+            ],
+            "databases": [
+                2
+            ],
+            "logical_servers": [
+                4
+            ],
+            "activities": [
+                4,
+                3,
+                8,
+                5,
+                7,
+                6
+            ],
+            "containers": [],
+            "activity_names": [],
+            "process_names": [],
+            "logical_server_names": [],
+            "database_names": []
+        },
+        {
+            "id": 6,
+            "name": "python",
+            "description": null,
+            "security_need_c": 1,
+            "responsible": null,
+            "type": null,
+            "technology": "python",
+            "external": "0",
+            "users": null,
+            "created_at": "2026-03-08T16:12:10.000000Z",
+            "updated_at": "2026-03-08T16:12:10.000000Z",
+            "deleted_at": null,
+            "entity_resp_id": null,
+            "application_block_id": null,
+            "documentation": null,
+            "security_need_i": 1,
+            "security_need_a": 1,
+            "security_need_t": null,
+            "version": "Python 3.12.10",
+            "functional_referent": null,
+            "editor": null,
+            "install_date": null,
+            "update_date": null,
+            "rto": 1,
+            "rpo": 1,
+            "vendor": null,
+            "product": null,
+            "attributes": "Logiciel Python_Software_Foundation_License'",
+            "patching_frequency": null,
+            "next_update": null,
+            "icon_id": null,
+            "security_need_auth": null,
+            "entities": [],
+            "processes": [],
+            "services": [],
+            "databases": [],
+            "logical_servers": [
+                6
+            ],
+            "activities": [],
+            "containers": [],
+            "activity_names": [],
+            "process_names": [],
+            "logical_server_names": [],
+            "database_names": []
+        },
+        {
+            "id": 7,
+            "name": "docker",
+            "description": null,
+            "security_need_c": 1,
+            "responsible": null,
+            "type": null,
+            "technology": "docker",
+            "external": "0",
+            "users": null,
+            "created_at": "2026-03-08T16:12:11.000000Z",
+            "updated_at": "2026-03-08T16:12:11.000000Z",
+            "deleted_at": null,
+            "entity_resp_id": null,
+            "application_block_id": null,
+            "documentation": null,
+            "security_need_i": 1,
+            "security_need_a": 1,
+            "security_need_t": null,
+            "version": "Docker version 29.2.1, build a5c7197",
+            "functional_referent": null,
+            "editor": null,
+            "install_date": null,
+            "update_date": null,
+            "rto": 1,
+            "rpo": 1,
+            "vendor": null,
+            "product": null,
+            "attributes": "Logiciel Apache2.0",
+            "patching_frequency": null,
+            "next_update": null,
+            "icon_id": null,
+            "security_need_auth": null,
+            "entities": [],
+            "processes": [],
+            "services": [],
+            "databases": [],
+            "logical_servers": [
+                6
+            ],
+            "activities": [],
+            "containers": [],
+            "activity_names": [],
+            "process_names": [],
+            "logical_server_names": [],
+            "database_names": []
+        }
+    ],
+    "application-services": [
+        {
+            "id": 1,
+            "description": "<p>Service de gestion</p>",
+            "exposition": "Interne",
+            "name": "APPLI-RH-SERVICE-1",
+            "created_at": "2026-03-08T16:12:12.000000Z",
+            "updated_at": "2026-03-08T16:12:12.000000Z",
+            "deleted_at": null,
+            "modules": [
+                1
+            ],
+            "applications": [
+                5
+            ]
+        }
+    ],
+    "application-modules": [
+        {
+            "id": 1,
+            "name": "APPLI-RH-MODULE-1",
+            "description": "<p>Module technique</p>",
+            "created_at": "2026-03-08T16:12:12.000000Z",
+            "updated_at": "2026-03-08T16:12:12.000000Z",
+            "deleted_at": null,
+            "vendor": "Vendor Inc",
+            "product": null,
+            "version": "2.5.1",
+            "application_services": [
+                1
+            ]
+        }
+    ],
+    "databases": [
+        {
+            "id": 1,
+            "name": "DB-SAP-PROD",
+            "description": "<p>Base de données centrale ERP - Chiffrement AES-256</p>",
+            "responsible": null,
+            "type": "HANA",
+            "security_need_c": 3,
+            "external": null,
+            "created_at": "2026-03-08T16:12:07.000000Z",
+            "updated_at": "2026-03-08T16:12:07.000000Z",
+            "deleted_at": null,
+            "entity_resp_id": 1,
+            "security_need_i": 3,
+            "security_need_a": 3,
+            "security_need_t": null,
+            "security_need_auth": null,
+            "icon_id": null
+        },
+        {
+            "id": 2,
+            "name": "DB-RH-PROD",
+            "description": "<p>Base de données centrale HR - Chiffrement AES-256</p>",
+            "responsible": null,
+            "type": "Postgress",
+            "security_need_c": 3,
+            "external": null,
+            "created_at": "2026-03-08T16:12:07.000000Z",
+            "updated_at": "2026-03-08T16:12:07.000000Z",
+            "deleted_at": null,
+            "entity_resp_id": 1,
+            "security_need_i": 3,
+            "security_need_a": 3,
+            "security_need_t": null,
+            "security_need_auth": null,
+            "icon_id": null
+        }
+    ],
+    "fluxes": [
+        {
+            "id": 1,
+            "name": "RFC HR -> Logistique",
+            "description": "<p>Flux de transfert des employés</p>",
+            "created_at": "2026-03-09T07:11:41.000000Z",
+            "updated_at": "2026-03-09T07:11:41.000000Z",
+            "deleted_at": null,
+            "application_source_id": 5,
+            "service_source_id": null,
+            "module_source_id": null,
+            "database_source_id": null,
+            "application_dest_id": 1,
+            "service_dest_id": null,
+            "module_dest_id": null,
+            "database_dest_id": null,
+            "crypted": 1,
+            "bidirectional": 0,
+            "nature": "RFC",
+            "attributes": ""
+        }
+    ],
+    "zone-admins": [
+        {
+            "id": 1,
+            "name": "AD-PRINCIPAL",
+            "description": "<p>Zone d'administration Active Directory principale</p>",
+            "created_at": "2026-03-08T16:12:00.000000Z",
+            "updated_at": "2026-03-08T16:12:00.000000Z",
+            "deleted_at": null
+        }
+    ],
+    "annuaires": [
+        {
+            "id": 1,
+            "name": "Administrateurs",
+            "description": "<p>Annuaire des comptes administrateurs système et applications</p>",
+            "solution": "Microsoft Active Directory",
+            "created_at": "2026-03-08T16:12:00.000000Z",
+            "updated_at": "2026-03-08T16:14:47.000000Z",
+            "deleted_at": null,
+            "zone_admin_id": 1
+        }
+    ],
+    "forest-ads": [
+        {
+            "id": 1,
+            "name": "Forest-Admin-Interne",
+            "description": "<p>Forêt AD pour les administrateurs internes</p>",
+            "created_at": "2026-03-08T16:12:00.000000Z",
+            "updated_at": "2026-03-08T16:14:48.000000Z",
+            "deleted_at": null,
+            "zone_admin_id": 1,
+            "domaines": [
+                1
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Forest-Admin-Externe",
+            "description": "<p>Forêt AD pour les prestataires externes</p>",
+            "created_at": "2026-03-08T16:12:01.000000Z",
+            "updated_at": "2026-03-08T16:14:48.000000Z",
+            "deleted_at": null,
+            "zone_admin_id": 1,
+            "domaines": [
+                2
+            ]
+        }
+    ],
+    "domaine-ads": [
+        {
+            "id": 1,
+            "name": "DOMAIN-ADMIN-INT",
+            "description": "<p>Domaine AD pour administrateurs internes</p>",
+            "domain_ctrl_cnt": 2,
+            "user_count": 30,
+            "machine_count": 10,
+            "relation_inter_domaine": "2",
+            "created_at": "2026-03-08T16:12:01.000000Z",
+            "updated_at": "2026-03-08T16:12:01.000000Z",
+            "deleted_at": null
+        },
+        {
+            "id": 2,
+            "name": "DOMAIN-ADMIN-EXT",
+            "description": "<p>Domaine AD pour administrateurs externes</p>",
+            "domain_ctrl_cnt": null,
+            "user_count": null,
+            "machine_count": null,
+            "relation_inter_domaine": null,
+            "created_at": "2026-03-08T16:12:01.000000Z",
+            "updated_at": "2026-03-08T16:12:01.000000Z",
+            "deleted_at": null
+        }
+    ],
+    "admin-users": [
+        {
+            "id": 1,
+            "user_id": "SAP-ADMIN-INT-001",
+            "firstname": "admin",
+            "lastname": "SAP Admin int 001",
+            "type": "Admin System SAP",
+            "description": "<p>Compte admin SAP interne</p>",
+            "domain_id": 1,
+            "created_at": "2026-03-08T16:12:13.000000Z",
+            "updated_at": "2026-03-08T16:14:49.000000Z",
+            "deleted_at": null,
+            "icon_id": null,
+            "attributes": "admin application SAP interne"
+        },
+        {
+            "id": 2,
+            "user_id": "SAP-ADMIN-INT-002",
+            "firstname": "admin",
+            "lastname": "SAP Admin int 002",
+            "type": "Admin System SAP",
+            "description": "<p>Compte admin SAP interne</p>",
+            "domain_id": 1,
+            "created_at": "2026-03-08T16:12:13.000000Z",
+            "updated_at": "2026-03-08T16:14:49.000000Z",
+            "deleted_at": null,
+            "icon_id": null,
+            "attributes": "admin application SAP interne"
+        },
+        {
+            "id": 3,
+            "user_id": "SAP-ADMIN-EXT-001",
+            "firstname": "admin",
+            "lastname": "SAP Admin ext 002",
+            "type": "Admin System SAP",
+            "description": "<p>Compte admin SAP externe (prestataire)</p>",
+            "domain_id": 2,
+            "created_at": "2026-03-08T16:12:13.000000Z",
+            "updated_at": "2026-03-08T16:14:49.000000Z",
+            "deleted_at": null,
+            "icon_id": null,
+            "attributes": "admin application SAP externe"
+        },
+        {
+            "id": 4,
+            "user_id": "LINUX-ADMIN-INT-001",
+            "firstname": "admin",
+            "lastname": "Linux Admin int 001",
+            "type": "Admin System Linux",
+            "description": "<p>Compte admin Linux interne</p>",
+            "domain_id": 1,
+            "created_at": "2026-03-08T16:12:13.000000Z",
+            "updated_at": "2026-03-08T16:14:49.000000Z",
+            "deleted_at": null,
+            "icon_id": null,
+            "attributes": "admin OS linux interne"
+        },
+        {
+            "id": 5,
+            "user_id": "LINUX-ADMIN-EXT-001",
+            "firstname": "admin",
+            "lastname": "Linux Admin ext 001",
+            "type": "Admin System Linux",
+            "description": "<p>Compte admin Linux externe</p>",
+            "domain_id": 2,
+            "created_at": "2026-03-08T16:12:14.000000Z",
+            "updated_at": "2026-03-08T16:14:49.000000Z",
+            "deleted_at": null,
+            "icon_id": null,
+            "attributes": "admin OS linux externe"
+        }
+    ],
+    "networks": [
+        {
+            "id": 1,
+            "name": "NET-PROD-ZONE",
+            "protocol_type": null,
+            "responsible": null,
+            "responsible_sec": null,
+            "security_need_c": 3,
+            "description": "<p>Réseau logique de Production</p>",
+            "created_at": "2026-03-08T16:11:55.000000Z",
+            "updated_at": "2026-03-08T16:11:55.000000Z",
+            "deleted_at": null,
+            "security_need_i": 3,
+            "security_need_a": 3,
+            "security_need_t": null,
+            "security_need_auth": null
+        },
+        {
+            "id": 2,
+            "name": "NET-INDUS-ZONE",
+            "protocol_type": null,
+            "responsible": null,
+            "responsible_sec": null,
+            "security_need_c": 1,
+            "description": "<p>Réseau logique Industriel (Zone OT)</p>",
+            "created_at": "2026-03-08T16:11:56.000000Z",
+            "updated_at": "2026-03-08T16:11:56.000000Z",
+            "deleted_at": null,
+            "security_need_i": 3,
+            "security_need_a": 3,
+            "security_need_t": null,
+            "security_need_auth": null
+        },
+        {
+            "id": 3,
+            "name": "NET-TEST-ZONE",
+            "protocol_type": null,
+            "responsible": null,
+            "responsible_sec": null,
+            "security_need_c": 1,
+            "description": "<p>Réseau pour serveurs de tests</p>",
+            "created_at": "2026-03-08T16:11:56.000000Z",
+            "updated_at": "2026-03-08T16:11:56.000000Z",
+            "deleted_at": null,
+            "security_need_i": 1,
+            "security_need_a": 1,
+            "security_need_t": null,
+            "security_need_auth": null
+        }
+    ],
+    "subnetworks": [
+        {
+            "id": 1,
+            "description": "<p>Plage IP des services RH</p>",
+            "address": "11.0.1.0/26",
+            "ip_allocation_type": null,
+            "responsible_exp": null,
+            "dmz": null,
+            "wifi": null,
+            "name": "SUBNET-RH-PROD",
+            "created_at": "2026-03-08T16:11:56.000000Z",
+            "updated_at": "2026-03-08T16:14:46.000000Z",
+            "deleted_at": null,
+            "connected_subnets_id": null,
+            "gateway_id": null,
+            "zone": null,
+            "vlan_id": 1,
+            "network_id": 1,
+            "default_gateway": null,
+            "subnetwork_id": null
+        },
+        {
+            "id": 2,
+            "description": "<p>Plage IP transverse pour SAP</p>",
+            "address": "12.0.1.0/26",
+            "ip_allocation_type": null,
+            "responsible_exp": null,
+            "dmz": null,
+            "wifi": null,
+            "name": "SUBNET-ERP-PROD",
+            "created_at": "2026-03-08T16:11:57.000000Z",
+            "updated_at": "2026-03-08T16:14:46.000000Z",
+            "deleted_at": null,
+            "connected_subnets_id": null,
+            "gateway_id": null,
+            "zone": null,
+            "vlan_id": 2,
+            "network_id": 1,
+            "default_gateway": null,
+            "subnetwork_id": null
+        },
+        {
+            "id": 3,
+            "description": "<p>Plage IP pour les automates</p>",
+            "address": "22.0.1.0/26",
+            "ip_allocation_type": null,
+            "responsible_exp": null,
+            "dmz": null,
+            "wifi": null,
+            "name": "SUBNET-INDUS",
+            "created_at": "2026-03-08T16:11:57.000000Z",
+            "updated_at": "2026-03-08T16:14:46.000000Z",
+            "deleted_at": null,
+            "connected_subnets_id": null,
+            "gateway_id": null,
+            "zone": null,
+            "vlan_id": 3,
+            "network_id": 2,
+            "default_gateway": null,
+            "subnetwork_id": null
+        },
+        {
+            "id": 4,
+            "description": "<p>Plage IP pour les serveurs de tests</p>",
+            "address": "11.0.2.0/26",
+            "ip_allocation_type": null,
+            "responsible_exp": null,
+            "dmz": null,
+            "wifi": null,
+            "name": "SUBNET-TEST",
+            "created_at": "2026-03-08T16:11:57.000000Z",
+            "updated_at": "2026-03-08T16:14:46.000000Z",
+            "deleted_at": null,
+            "connected_subnets_id": null,
+            "gateway_id": null,
+            "zone": null,
+            "vlan_id": 4,
+            "network_id": 3,
+            "default_gateway": null,
+            "subnetwork_id": null
+        }
+    ],
+    "gateways": [],
+    "external-connected-entities": [],
+    "network-switches": [
+        {
+            "id": 1,
+            "name": "COMMUTATEUR-RESEAU-PROD",
+            "ip": "11.0.1.9",
+            "description": "<p>Commutateur cœur de réseau - Zone Prod</p>",
+            "created_at": "2026-03-08T16:12:08.000000Z",
+            "updated_at": "2026-03-08T16:12:08.000000Z",
+            "deleted_at": null,
+            "physical_switches": [
+                1
+            ]
+        },
+        {
+            "id": 2,
+            "name": "COMMUTATEUR-RESEAU-TEST",
+            "ip": "11.0.2.9",
+            "description": "<p>Commutateur Réseau TEST</p>",
+            "created_at": "2026-03-08T16:12:09.000000Z",
+            "updated_at": "2026-03-08T16:12:09.000000Z",
+            "deleted_at": null,
+            "physical_switches": [
+                2
+            ]
+        }
+    ],
+    "routers": [],
+    "security-devices": [],
+    "clusters": [
+        {
+            "id": 1,
+            "name": "CLUSTER-VSPHERE-PROD",
+            "type": "VMware vSphere 7.0",
+            "description": "<p>Cluster HA/DRS - 2 noeuds ESXi</p>",
+            "address_ip": "22.0.1.61",
+            "created_at": "2026-03-08T16:13:07.000000Z",
+            "updated_at": "2026-03-08T16:13:07.000000Z",
+            "deleted_at": null,
+            "attributes": null,
+            "icon_id": null
+        },
+        {
+            "id": 2,
+            "name": "CLUSTER-RH-PROD",
+            "type": "VMware vCenter 9",
+            "description": "<p>Cluster HA/DRS - 2 noeuds ESXi</p>",
+            "address_ip": "11.0.1.61",
+            "created_at": "2026-03-08T16:13:08.000000Z",
+            "updated_at": "2026-03-08T16:13:08.000000Z",
+            "deleted_at": null,
+            "attributes": null,
+            "icon_id": null
+        }
+    ],
+    "logical-servers": [
+        {
+            "id": 1,
+            "name": "LOGICAL-P11-SRV001",
+            "description": null,
+            "net_services": null,
+            "configuration": null,
+            "created_at": "2026-03-08T16:12:04.000000Z",
+            "updated_at": "2026-03-08T16:12:04.000000Z",
+            "deleted_at": null,
+            "operating_system": "Ubuntu 20.04.6 LTS",
+            "address_ip": "12.0.1.5",
+            "cpu": "8 vCPU",
+            "memory": "16 GB",
+            "environment": "Production",
+            "disk": null,
+            "install_date": null,
+            "update_date": null,
+            "disk_used": null,
+            "attributes": null,
+            "patching_frequency": "Mensuel",
+            "next_update": "2026-02-05",
+            "cluster_id": null,
+            "domain_id": null,
+            "type": null,
+            "active": null,
+            "icon_id": null,
+            "physical_servers": [
+                7
+            ],
+            "applications": [
+                1
+            ],
+            "databases": [
+                1
+            ],
+            "clusters": [],
+            "containers": []
+        },
+        {
+            "id": 2,
+            "name": "LOGICAL-P11-AS001",
+            "description": null,
+            "net_services": null,
+            "configuration": null,
+            "created_at": "2026-03-08T16:12:04.000000Z",
+            "updated_at": "2026-03-08T16:12:04.000000Z",
+            "deleted_at": null,
+            "operating_system": "Ubuntu 20.04.6 LTS",
+            "address_ip": "12.0.1.6",
+            "cpu": "8 vCPU",
+            "memory": "16 GB",
+            "environment": "Production",
+            "disk": null,
+            "install_date": null,
+            "update_date": null,
+            "disk_used": null,
+            "attributes": null,
+            "patching_frequency": "Mensuel",
+            "next_update": "2026-02-05",
+            "cluster_id": null,
+            "domain_id": null,
+            "type": null,
+            "active": null,
+            "icon_id": null,
+            "physical_servers": [
+                6
+            ],
+            "applications": [
+                2,
+                3
+            ],
+            "databases": [],
+            "clusters": [],
+            "containers": []
+        },
+        {
+            "id": 3,
+            "name": "PLC-CONTROLLER-01",
+            "description": "<p>Contrôleur de ligne de production - Critique</p>",
+            "net_services": null,
+            "configuration": null,
+            "created_at": "2026-03-08T16:12:05.000000Z",
+            "updated_at": "2026-03-08T16:12:05.000000Z",
+            "deleted_at": null,
+            "operating_system": "Windows Server 2012 R2",
+            "address_ip": "22.0.1.2",
+            "cpu": null,
+            "memory": null,
+            "environment": "Industriel",
+            "disk": null,
+            "install_date": null,
+            "update_date": null,
+            "disk_used": null,
+            "attributes": null,
+            "patching_frequency": "Aucune",
+            "next_update": null,
+            "cluster_id": null,
+            "domain_id": null,
+            "type": null,
+            "active": 1,
+            "icon_id": null,
+            "physical_servers": [
+                4
+            ],
+            "applications": [
+                4
+            ],
+            "databases": [],
+            "clusters": [
+                1
+            ],
+            "containers": []
+        },
+        {
+            "id": 4,
+            "name": "LOGICAL-SERVER-RH-11",
+            "description": "<p>Serveur virtuel clusteurisé RH 01 - Critique</p>",
+            "net_services": null,
+            "configuration": null,
+            "created_at": "2026-03-08T16:12:05.000000Z",
+            "updated_at": "2026-03-08T16:12:05.000000Z",
+            "deleted_at": null,
+            "operating_system": "Windows Server 2025",
+            "address_ip": "11.0.1.50",
+            "cpu": "16 vCPU",
+            "memory": "64",
+            "environment": "Production",
+            "disk": 128,
+            "install_date": null,
+            "update_date": null,
+            "disk_used": 64,
+            "attributes": null,
+            "patching_frequency": "Trimestriel",
+            "next_update": null,
+            "cluster_id": null,
+            "domain_id": null,
+            "type": null,
+            "active": 1,
+            "icon_id": null,
+            "physical_servers": [],
+            "applications": [
+                5
+            ],
+            "databases": [
+                2
+            ],
+            "clusters": [
+                2
+            ],
+            "containers": []
+        },
+        {
+            "id": 5,
+            "name": "LOGICAL-SERVER-TEST-12",
+            "description": "<p>Serveur de test</p>",
+            "net_services": null,
+            "configuration": null,
+            "created_at": "2026-03-08T16:12:05.000000Z",
+            "updated_at": "2026-03-08T16:12:05.000000Z",
+            "deleted_at": null,
+            "operating_system": "Windows Server 2025",
+            "address_ip": "11.0.2.12",
+            "cpu": "4 vCPU",
+            "memory": "16",
+            "environment": "Test",
+            "disk": 128,
+            "install_date": null,
+            "update_date": null,
+            "disk_used": 64,
+            "attributes": null,
+            "patching_frequency": "Trimestriel",
+            "next_update": null,
+            "cluster_id": null,
+            "domain_id": null,
+            "type": null,
+            "active": 1,
+            "icon_id": null,
+            "physical_servers": [
+                8
+            ],
+            "applications": [],
+            "databases": [],
+            "clusters": [],
+            "containers": [
+                1
+            ]
+        },
+        {
+            "id": 6,
+            "name": "LOGICAL-SERVER-TEST-13",
+            "description": "<p>Serveur de test</p>",
+            "net_services": null,
+            "configuration": null,
+            "created_at": "2026-03-08T16:12:06.000000Z",
+            "updated_at": "2026-03-08T16:12:06.000000Z",
+            "deleted_at": null,
+            "operating_system": "Windows Server 2025",
+            "address_ip": "11.0.2.13",
+            "cpu": "4 vCPU",
+            "memory": "16",
+            "environment": "Test",
+            "disk": 128,
+            "install_date": null,
+            "update_date": null,
+            "disk_used": 64,
+            "attributes": null,
+            "patching_frequency": "Trimestriel",
+            "next_update": null,
+            "cluster_id": null,
+            "domain_id": null,
+            "type": null,
+            "active": 1,
+            "icon_id": null,
+            "physical_servers": [
+                8
+            ],
+            "applications": [
+                7,
+                6
+            ],
+            "databases": [],
+            "clusters": [],
+            "containers": []
+        },
+        {
+            "id": 7,
+            "name": "LOGICAL-SERVER-TEST-14",
+            "description": "<p>Serveur de test</p>",
+            "net_services": null,
+            "configuration": null,
+            "created_at": "2026-03-08T16:12:06.000000Z",
+            "updated_at": "2026-03-08T16:12:06.000000Z",
+            "deleted_at": null,
+            "operating_system": "Windows Server 2025",
+            "address_ip": "11.0.2.14",
+            "cpu": "4 vCPU",
+            "memory": "16",
+            "environment": "Test",
+            "disk": 128,
+            "install_date": null,
+            "update_date": null,
+            "disk_used": 64,
+            "attributes": null,
+            "patching_frequency": "Trimestriel",
+            "next_update": null,
+            "cluster_id": null,
+            "domain_id": null,
+            "type": null,
+            "active": 1,
+            "icon_id": null,
+            "physical_servers": [
+                8
+            ],
+            "applications": [],
+            "databases": [],
+            "clusters": [],
+            "containers": []
+        },
+        {
+            "id": 8,
+            "name": "LOGICAL-SERVER-TEST-15",
+            "description": "<p>Serveur de test</p>",
+            "net_services": null,
+            "configuration": null,
+            "created_at": "2026-03-08T16:12:06.000000Z",
+            "updated_at": "2026-03-08T16:12:06.000000Z",
+            "deleted_at": null,
+            "operating_system": "Windows Server 2025",
+            "address_ip": "11.0.2.15",
+            "cpu": "4 vCPU",
+            "memory": "16",
+            "environment": "Test",
+            "disk": 128,
+            "install_date": null,
+            "update_date": null,
+            "disk_used": 64,
+            "attributes": null,
+            "patching_frequency": "Trimestriel",
+            "next_update": null,
+            "cluster_id": null,
+            "domain_id": null,
+            "type": null,
+            "active": 1,
+            "icon_id": null,
+            "physical_servers": [
+                8
+            ],
+            "applications": [],
+            "databases": [],
+            "clusters": [],
+            "containers": []
+        },
+        {
+            "id": 9,
+            "name": "LOGICAL-SERVER-TEST-16",
+            "description": "<p>Serveur de test</p>",
+            "net_services": null,
+            "configuration": null,
+            "created_at": "2026-03-08T16:12:07.000000Z",
+            "updated_at": "2026-03-08T16:12:07.000000Z",
+            "deleted_at": null,
+            "operating_system": "Windows Server 2025",
+            "address_ip": "11.0.2.16",
+            "cpu": "4 vCPU",
+            "memory": "16",
+            "environment": "Test",
+            "disk": 128,
+            "install_date": null,
+            "update_date": null,
+            "disk_used": 64,
+            "attributes": null,
+            "patching_frequency": "Trimestriel",
+            "next_update": null,
+            "cluster_id": null,
+            "domain_id": null,
+            "type": null,
+            "active": 1,
+            "icon_id": null,
+            "physical_servers": [
+                8
+            ],
+            "applications": [],
+            "databases": [],
+            "clusters": [],
+            "containers": []
+        }
+    ],
+    "logical-flows": [],
+    "containers": [
+        {
+            "id": 1,
+            "name": "mercator",
+            "type": "Docker",
+            "description": "<p>Container mercator (image ghcr.io/dbarzin/mercator:latest, status Up 3 minutes)</p>",
+            "icon_id": null,
+            "created_at": "2026-03-08T16:13:10.000000Z",
+            "updated_at": "2026-03-08T16:13:10.000000Z",
+            "deleted_at": null
+        }
+    ],
+    "certificates": [],
+    "vlans": [
+        {
+            "id": 1,
+            "name": "VLAN-10-RH",
+            "description": "<p>VLAN segmenté pour les flux RH</p>",
+            "created_at": "2026-03-08T16:11:54.000000Z",
+            "updated_at": "2026-03-08T16:11:54.000000Z",
+            "deleted_at": null,
+            "vlan_id": 10
+        },
+        {
+            "id": 2,
+            "name": "VLAN-20-ERP",
+            "description": "<p>VLAN segmenté pour les flux SAP/ERP</p>",
+            "created_at": "2026-03-08T16:11:54.000000Z",
+            "updated_at": "2026-03-08T16:11:54.000000Z",
+            "deleted_at": null,
+            "vlan_id": 20
+        },
+        {
+            "id": 3,
+            "name": "VLAN-99-INDUS",
+            "description": "<p>VLAN d'isolement industriel</p>",
+            "created_at": "2026-03-08T16:11:55.000000Z",
+            "updated_at": "2026-03-08T16:11:55.000000Z",
+            "deleted_at": null,
+            "vlan_id": 99
+        },
+        {
+            "id": 4,
+            "name": "VLAN-98-TEST",
+            "description": "<p>VLAN d'isolement tests</p>",
+            "created_at": "2026-03-08T16:11:55.000000Z",
+            "updated_at": "2026-03-08T16:11:55.000000Z",
+            "deleted_at": null,
+            "vlan_id": 98
+        }
+    ],
+    "sites": [
+        {
+            "id": 1,
+            "name": "Site-01",
+            "description": "<p>Site of Fatacenters</p>",
+            "created_at": "2026-03-08T16:11:53.000000Z",
+            "updated_at": "2026-03-08T16:11:53.000000Z",
+            "deleted_at": null,
+            "icon_id": null
+        }
+    ],
+    "buildings": [
+        {
+            "id": 1,
+            "name": "Building-01",
+            "description": null,
+            "created_at": "2026-03-08T16:11:58.000000Z",
+            "updated_at": "2026-03-08T16:13:37.000000Z",
+            "deleted_at": null,
+            "site_id": 1,
+            "attributes": null,
+            "type": "Datacenter host",
+            "building_id": null,
+            "icon_id": null
+        },
+        {
+            "id": 2,
+            "name": "Building-02",
+            "description": null,
+            "created_at": "2026-03-08T16:11:58.000000Z",
+            "updated_at": "2026-03-08T16:13:37.000000Z",
+            "deleted_at": null,
+            "site_id": 1,
+            "attributes": null,
+            "type": "Datacenter host",
+            "building_id": null,
+            "icon_id": null
+        },
+        {
+            "id": 3,
+            "name": "Room-11",
+            "description": null,
+            "created_at": "2026-03-08T16:11:58.000000Z",
+            "updated_at": "2026-03-08T16:13:37.000000Z",
+            "deleted_at": null,
+            "site_id": 1,
+            "attributes": null,
+            "type": "Datacenter host",
+            "building_id": 1,
+            "icon_id": null
+        },
+        {
+            "id": 4,
+            "name": "Room-12",
+            "description": null,
+            "created_at": "2026-03-08T16:11:59.000000Z",
+            "updated_at": "2026-03-08T16:13:37.000000Z",
+            "deleted_at": null,
+            "site_id": 1,
+            "attributes": null,
+            "type": "Datacenter",
+            "building_id": 1,
+            "icon_id": null
+        },
+        {
+            "id": 5,
+            "name": "Room-21",
+            "description": null,
+            "created_at": "2026-03-08T16:11:59.000000Z",
+            "updated_at": "2026-03-08T16:13:37.000000Z",
+            "deleted_at": null,
+            "site_id": 1,
+            "attributes": null,
+            "type": "Datacenter",
+            "building_id": 2,
+            "icon_id": null
+        },
+        {
+            "id": 6,
+            "name": "Room-22",
+            "description": null,
+            "created_at": "2026-03-08T16:11:59.000000Z",
+            "updated_at": "2026-03-08T16:13:37.000000Z",
+            "deleted_at": null,
+            "site_id": 1,
+            "attributes": null,
+            "type": "Datacenter",
+            "building_id": 2,
+            "icon_id": null
+        }
+    ],
+    "bays": [
+        {
+            "id": 1,
+            "name": "BAY-NORTH-11",
+            "description": "<p>Rack salle Nord</p>",
+            "created_at": "2026-03-08T16:13:08.000000Z",
+            "updated_at": "2026-03-08T16:13:34.000000Z",
+            "deleted_at": null,
+            "room_id": 3
+        },
+        {
+            "id": 2,
+            "name": "BAY-SOUTH-11",
+            "description": "<p>Rack salle Sud</p>",
+            "created_at": "2026-03-08T16:13:08.000000Z",
+            "updated_at": "2026-03-08T16:13:34.000000Z",
+            "deleted_at": null,
+            "room_id": 3
+        },
+        {
+            "id": 3,
+            "name": "BAY-NORTH-12",
+            "description": "<p>Rack salle Nord</p>",
+            "created_at": "2026-03-08T16:13:09.000000Z",
+            "updated_at": "2026-03-08T16:13:34.000000Z",
+            "deleted_at": null,
+            "room_id": 4
+        },
+        {
+            "id": 4,
+            "name": "BAY-SOUTH-12",
+            "description": "<p>Rack salle Sud</p>",
+            "created_at": "2026-03-08T16:13:09.000000Z",
+            "updated_at": "2026-03-08T16:13:34.000000Z",
+            "deleted_at": null,
+            "room_id": 4
+        },
+        {
+            "id": 5,
+            "name": "BAY-EAST-21",
+            "description": "<p>Rack salle Sud</p>",
+            "created_at": "2026-03-08T16:13:09.000000Z",
+            "updated_at": "2026-03-08T16:13:34.000000Z",
+            "deleted_at": null,
+            "room_id": 5
+        },
+        {
+            "id": 6,
+            "name": "BAY-EAST-22",
+            "description": "<p>Rack salle est</p>",
+            "created_at": "2026-03-08T16:13:10.000000Z",
+            "updated_at": "2026-03-08T16:13:34.000000Z",
+            "deleted_at": null,
+            "room_id": 6
+        },
+        {
+            "id": 7,
+            "name": "BAY-WEST-22",
+            "description": "<p>Rack salle ouest</p>",
+            "created_at": "2026-03-08T16:13:10.000000Z",
+            "updated_at": "2026-03-08T16:13:35.000000Z",
+            "deleted_at": null,
+            "room_id": 6
+        }
+    ],
+    "physical-servers": [
+        {
+            "id": 1,
+            "name": "PHYSICAL-SERVER-111",
+            "description": null,
+            "responsible": null,
+            "configuration": null,
+            "created_at": "2026-03-08T16:12:01.000000Z",
+            "updated_at": "2026-03-08T16:14:37.000000Z",
+            "deleted_at": null,
+            "site_id": 1,
+            "building_id": 3,
+            "bay_id": 1,
+            "physical_switch_id": null,
+            "type": "Dell PowerEdge R740",
+            "vendor": null,
+            "product": null,
+            "version": null,
+            "address_ip": "10.0.1.111",
+            "cpu": "64 CPU",
+            "memory": "128",
+            "disk": "256",
+            "disk_used": "100",
+            "operating_system": "Ubuntu 22.04.3 LTS",
+            "install_date": null,
+            "update_date": null,
+            "patching_group": null,
+            "paching_frequency": null,
+            "next_update": null,
+            "cluster_id": null,
+            "icon_id": null,
+            "applications": [],
+            "clusters": [
+                2
+            ],
+            "logical_servers": []
+        },
+        {
+            "id": 2,
+            "name": "PHYSICAL-SERVER-113",
+            "description": null,
+            "responsible": null,
+            "configuration": null,
+            "created_at": "2026-03-08T16:12:02.000000Z",
+            "updated_at": "2026-03-08T16:14:38.000000Z",
+            "deleted_at": null,
+            "site_id": 1,
+            "building_id": 3,
+            "bay_id": 1,
+            "physical_switch_id": null,
+            "type": "Dell PowerEdge R740",
+            "vendor": null,
+            "product": null,
+            "version": null,
+            "address_ip": "10.0.1.113",
+            "cpu": "64 CPU",
+            "memory": "128",
+            "disk": "256",
+            "disk_used": "100",
+            "operating_system": "Ubuntu 22.04.3 LTS",
+            "install_date": null,
+            "update_date": null,
+            "patching_group": null,
+            "paching_frequency": null,
+            "next_update": null,
+            "cluster_id": null,
+            "icon_id": null,
+            "applications": [],
+            "clusters": [],
+            "logical_servers": []
+        },
+        {
+            "id": 3,
+            "name": "PHYSICAL-SERVER-112",
+            "description": null,
+            "responsible": null,
+            "configuration": null,
+            "created_at": "2026-03-08T16:12:02.000000Z",
+            "updated_at": "2026-03-08T16:14:38.000000Z",
+            "deleted_at": null,
+            "site_id": 1,
+            "building_id": 3,
+            "bay_id": 2,
+            "physical_switch_id": null,
+            "type": "Dell PowerEdge R740",
+            "vendor": null,
+            "product": null,
+            "version": null,
+            "address_ip": "10.0.1.112",
+            "cpu": "64 CPU",
+            "memory": "128",
+            "disk": "256",
+            "disk_used": "100",
+            "operating_system": "Ubuntu 22.04.3 LTS",
+            "install_date": null,
+            "update_date": null,
+            "patching_group": null,
+            "paching_frequency": null,
+            "next_update": null,
+            "cluster_id": null,
+            "icon_id": null,
+            "applications": [],
+            "clusters": [
+                2
+            ],
+            "logical_servers": []
+        },
+        {
+            "id": 4,
+            "name": "PHYSICAL-SERVER-121",
+            "description": null,
+            "responsible": null,
+            "configuration": "Noeud 2 du cluster HA",
+            "created_at": "2026-03-08T16:12:02.000000Z",
+            "updated_at": "2026-03-08T16:14:38.000000Z",
+            "deleted_at": null,
+            "site_id": 1,
+            "building_id": 4,
+            "bay_id": 3,
+            "physical_switch_id": null,
+            "type": "Dell PowerEdge R740",
+            "vendor": null,
+            "product": null,
+            "version": null,
+            "address_ip": "11.0.1.121",
+            "cpu": "64 CPU",
+            "memory": "128",
+            "disk": "256",
+            "disk_used": "100",
+            "operating_system": "Ubuntu 22.04.3 LTS",
+            "install_date": null,
+            "update_date": null,
+            "patching_group": null,
+            "paching_frequency": null,
+            "next_update": null,
+            "cluster_id": null,
+            "icon_id": null,
+            "applications": [],
+            "clusters": [
+                1
+            ],
+            "logical_servers": [
+                3
+            ]
+        },
+        {
+            "id": 5,
+            "name": "PHYSICAL-SERVER-122",
+            "description": null,
+            "responsible": null,
+            "configuration": "Noeud 2 du cluster HA",
+            "created_at": "2026-03-08T16:12:03.000000Z",
+            "updated_at": "2026-03-08T16:14:38.000000Z",
+            "deleted_at": null,
+            "site_id": 1,
+            "building_id": 4,
+            "bay_id": 4,
+            "physical_switch_id": null,
+            "type": "Dell PowerEdge R740",
+            "vendor": null,
+            "product": null,
+            "version": null,
+            "address_ip": "11.0.1.122",
+            "cpu": "64 CPU",
+            "memory": "128",
+            "disk": "256",
+            "disk_used": "100",
+            "operating_system": "Ubuntu 22.04.3 LTS",
+            "install_date": null,
+            "update_date": null,
+            "patching_group": null,
+            "paching_frequency": null,
+            "next_update": null,
+            "cluster_id": null,
+            "icon_id": null,
+            "applications": [],
+            "clusters": [
+                1
+            ],
+            "logical_servers": []
+        },
+        {
+            "id": 6,
+            "name": "PHYSICAL-SERVER-211",
+            "description": null,
+            "responsible": null,
+            "configuration": "Noeud 2 du cluster HA",
+            "created_at": "2026-03-08T16:12:03.000000Z",
+            "updated_at": "2026-03-08T16:14:38.000000Z",
+            "deleted_at": null,
+            "site_id": 1,
+            "building_id": 5,
+            "bay_id": 5,
+            "physical_switch_id": null,
+            "type": "Dell PowerEdge R740",
+            "vendor": null,
+            "product": null,
+            "version": null,
+            "address_ip": "21.0.1.211",
+            "cpu": "64 CPU",
+            "memory": "128",
+            "disk": "256",
+            "disk_used": "100",
+            "operating_system": "Ubuntu 22.04.3 LTS",
+            "install_date": null,
+            "update_date": null,
+            "patching_group": null,
+            "paching_frequency": null,
+            "next_update": null,
+            "cluster_id": null,
+            "icon_id": null,
+            "applications": [],
+            "clusters": [],
+            "logical_servers": [
+                2
+            ]
+        },
+        {
+            "id": 7,
+            "name": "PHYSICAL-SERVER-221",
+            "description": null,
+            "responsible": null,
+            "configuration": "Noeud 2 du cluster HA",
+            "created_at": "2026-03-08T16:12:03.000000Z",
+            "updated_at": "2026-03-08T16:14:38.000000Z",
+            "deleted_at": null,
+            "site_id": 1,
+            "building_id": 6,
+            "bay_id": 7,
+            "physical_switch_id": null,
+            "type": "Dell PowerEdge R740",
+            "vendor": null,
+            "product": null,
+            "version": null,
+            "address_ip": "22.0.1.221",
+            "cpu": "64 CPU",
+            "memory": "128",
+            "disk": "256",
+            "disk_used": "100",
+            "operating_system": "Ubuntu 22.04.3 LTS",
+            "install_date": null,
+            "update_date": null,
+            "patching_group": null,
+            "paching_frequency": null,
+            "next_update": null,
+            "cluster_id": null,
+            "icon_id": null,
+            "applications": [],
+            "clusters": [],
+            "logical_servers": [
+                1
+            ]
+        },
+        {
+            "id": 8,
+            "name": "PHYSICAL-SERVER-114",
+            "description": null,
+            "responsible": null,
+            "configuration": "Noeud 2 du cluster HA",
+            "created_at": "2026-03-08T16:12:04.000000Z",
+            "updated_at": "2026-03-08T16:14:38.000000Z",
+            "deleted_at": null,
+            "site_id": 1,
+            "building_id": 4,
+            "bay_id": 3,
+            "physical_switch_id": null,
+            "type": "Dell PowerEdge R740",
+            "vendor": null,
+            "product": null,
+            "version": null,
+            "address_ip": "11.0.2.221",
+            "cpu": "64 CPU",
+            "memory": "128",
+            "disk": "256",
+            "disk_used": "100",
+            "operating_system": "Ubuntu 22.04.3 LTS",
+            "install_date": null,
+            "update_date": null,
+            "patching_group": null,
+            "paching_frequency": null,
+            "next_update": null,
+            "cluster_id": null,
+            "icon_id": null,
+            "applications": [],
+            "clusters": [],
+            "logical_servers": [
+                5,
+                6,
+                7,
+                8,
+                9
+            ]
+        }
+    ],
+    "workstations": [],
+    "storage-devices": [],
+    "peripherals": [],
+    "phones": [],
+    "physical-switches": [
+        {
+            "id": 1,
+            "name": "COMMUTATEUR-PHYSIQUE-PROD",
+            "description": "Commutateur réseau de Prod",
+            "type": "Cisco Catalyst 9200",
+            "created_at": "2026-03-08T16:12:08.000000Z",
+            "updated_at": "2026-03-08T16:14:39.000000Z",
+            "deleted_at": null,
+            "site_id": 1,
+            "building_id": 5,
+            "bay_id": 5,
+            "vendor": null,
+            "product": null,
+            "version": null,
+            "icon_id": null,
+            "network_switches": [
+                1
+            ]
+        },
+        {
+            "id": 2,
+            "name": "COMMUTATEUR-PHYSIQUE-002",
+            "description": "Commutateur réseau",
+            "type": "Cisco Catalyst 9200",
+            "created_at": "2026-03-08T16:12:08.000000Z",
+            "updated_at": "2026-03-08T16:14:39.000000Z",
+            "deleted_at": null,
+            "site_id": 1,
+            "building_id": 6,
+            "bay_id": 6,
+            "vendor": null,
+            "product": null,
+            "version": null,
+            "icon_id": null,
+            "network_switches": [
+                2
+            ]
+        }
+    ],
+    "physical-routers": [],
+    "wifi-terminals": [],
+    "physical-security-devices": [],
+    "physical-links": [],
+    "wans": [],
+    "mans": [],
+    "lans": [
+        {
+            "id": 1,
+            "name": "LAN-SITE-01",
+            "description": "Infrastructure réseau physique du Site 01",
+            "created_at": "2026-03-08T16:11:54.000000Z",
+            "updated_at": "2026-03-08T16:11:54.000000Z",
+            "deleted_at": null
+        }
+    ]
+}
